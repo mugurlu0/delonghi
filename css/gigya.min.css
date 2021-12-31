@@ -1,0 +1,1575 @@
+body #ctl00_ContentPlaceHolderMain_AddressViewSummaryBillTo_HyperLinkEdit {
+    margin-right:10px
+}
+
+body .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.dlgLink.dlgForgottenPassword {
+    margin-bottom:10px
+}
+
+body #eucookielawcontainer .bannerbuttons .button a {
+    display:block
+}
+
+body .cart-pending-current .add-cart-button .icon.adding {
+    top: 12px;
+    right:7px
+}
+
+body .category .button.grey a {
+    text-decoration:none !important
+}
+
+body .button i, body .button em, body .checkbox-button i, body label.checkbox-button span.icon {
+    display:none !important
+}
+
+body #ctl00_ContentPlaceHolderMain_SignInControl1_HyperlinkForgottenPassword, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_Signin2_HyperlinkForgottenPassword, body #ctl00_ContentPlaceHolderMain_AddressViewSummaryBillTo_HyperLinkEdit, body #ctl00_ContentPlaceHolderMain_AddressViewSummaryBillTo_HyperLinkChange, body #ctl00_ContentPlaceHolderMain_HyperLinkEdit, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_Signin1_HyperlinkForgottenPassword, body .dlgForgottenPassword, body a.btn.icon-edit, body button.btn.icon-edit, body .cta-link-normal, body .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.dlgLink {
+    font-weight: 900;
+    font-size: 12px;
+    letter-spacing: 0.8px;
+    color: #58B0E2 !important;
+    border: 0;
+    padding: 0 0 2px !important;
+    border-bottom: 1px solid #58B0E2 !important;
+    background: none !important;
+    border-radius: 0 !important;
+    text-decoration: none !important;
+    height: auto;
+    line-height: normal !important;
+    text-transform:inherit
+}
+
+body #ctl00_ContentPlaceHolderMain_SignInControl1_HyperlinkForgottenPassword:hover, body #ctl00_ContentPlaceHolderMain_SignInControl1_HyperlinkForgottenPassword:active, body #ctl00_ContentPlaceHolderMain_SignInControl1_HyperlinkForgottenPassword:focus, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_Signin2_HyperlinkForgottenPassword:hover, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_Signin2_HyperlinkForgottenPassword:active, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_Signin2_HyperlinkForgottenPassword:focus, body #ctl00_ContentPlaceHolderMain_AddressViewSummaryBillTo_HyperLinkEdit:hover, body #ctl00_ContentPlaceHolderMain_AddressViewSummaryBillTo_HyperLinkEdit:active, body #ctl00_ContentPlaceHolderMain_AddressViewSummaryBillTo_HyperLinkEdit:focus, body #ctl00_ContentPlaceHolderMain_AddressViewSummaryBillTo_HyperLinkChange:hover, body #ctl00_ContentPlaceHolderMain_AddressViewSummaryBillTo_HyperLinkChange:active, body #ctl00_ContentPlaceHolderMain_AddressViewSummaryBillTo_HyperLinkChange:focus, body #ctl00_ContentPlaceHolderMain_HyperLinkEdit:hover, body #ctl00_ContentPlaceHolderMain_HyperLinkEdit:active, body #ctl00_ContentPlaceHolderMain_HyperLinkEdit:focus, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_Signin1_HyperlinkForgottenPassword:hover, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_Signin1_HyperlinkForgottenPassword:active, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_Signin1_HyperlinkForgottenPassword:focus, body .dlgForgottenPassword:hover, body .dlgForgottenPassword:active, body .dlgForgottenPassword:focus, body a.btn.icon-edit:hover, body a.btn.icon-edit:active, body a.btn.icon-edit:focus, body button.btn.icon-edit:hover, body button.btn.icon-edit:active, body button.btn.icon-edit:focus, body .cta-link-normal:hover, body .cta-link-normal:active, body .cta-link-normal:focus, body .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.dlgLink:hover, body .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.dlgLink:active, body .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.dlgLink:focus {
+    color: #052644 !important;
+    border-bottom: 1px solid #052644 !important;
+    cursor:pointer
+}
+
+body #ctl00_ContentPlaceHolderMain_SignInControl1_HyperlinkForgottenPassword:visited, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_Signin2_HyperlinkForgottenPassword:visited, body #ctl00_ContentPlaceHolderMain_AddressViewSummaryBillTo_HyperLinkEdit:visited, body #ctl00_ContentPlaceHolderMain_AddressViewSummaryBillTo_HyperLinkChange:visited, body #ctl00_ContentPlaceHolderMain_HyperLinkEdit:visited, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_Signin1_HyperlinkForgottenPassword:visited, body .dlgForgottenPassword:visited, body a.btn.icon-edit:visited, body button.btn.icon-edit:visited, body .cta-link-normal:visited, body .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.dlgLink:visited {
+    color: #1D56A2 !important;
+    border-bottom:1px solid #1D56A2 !important
+}
+
+body .cta-link-normal__inherit {
+    font-weight: 900;
+    font-size: 12px;
+    letter-spacing: 0.8px;
+    color: #58B0E2 !important;
+    border: 0;
+    padding: 0 0 2px !important;
+    border-bottom: 1px solid #58B0E2 !important;
+    background: none !important;
+    border-radius: 0 !important;
+    text-decoration: none !important;
+    height: auto;
+    line-height: normal !important;
+    text-transform: inherit;
+    font-size:inherit
+}
+
+body .cta-link-normal__inherit:hover, body .cta-link-normal__inherit:active, body .cta-link-normal__inherit:focus {
+    color: #052644 !important;
+    border-bottom: 1px solid #052644 !important;
+    cursor:pointer
+}
+
+body .cta-link-normal__inherit:visited {
+    color: #1D56A2 !important;
+    border-bottom:1px solid #1D56A2 !important
+}
+
+body .slide .slide-overlay p a, body .cta-link-uppercase {
+    font-weight: 900;
+    font-size: 12px;
+    letter-spacing: 0.8px;
+    color: #58B0E2 !important;
+    border: 0;
+    padding: 0 0 2px !important;
+    border-bottom: 1px solid #58B0E2 !important;
+    background: none !important;
+    border-radius: 0 !important;
+    text-decoration: none !important;
+    height: auto;
+    line-height: normal !important;
+    text-transform:uppercase
+}
+
+body .slide .slide-overlay p a:hover, body .slide .slide-overlay p a:active, body .slide .slide-overlay p a:focus, body .cta-link-uppercase:hover, body .cta-link-uppercase:active, body .cta-link-uppercase:focus {
+    color: #052644 !important;
+    border-bottom: 1px solid #052644 !important;
+    cursor:pointer
+}
+
+body .slide .slide-overlay p a:visited, body .cta-link-uppercase:visited {
+    color: #1D56A2 !important;
+    border-bottom:1px solid #1D56A2 !important
+}
+
+body .button a, body .button input:not(input[type=submit]), body .button button {
+    font-weight: 900;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: 22.5px;
+    background: none !important;
+    padding: 0 35px !important;
+    height: 43px;
+    line-height: 43px;
+    text-decoration: none !important;
+    -webkit-appearance: none;
+    color: #58B0E2 !important;
+    border: 1px solid #58B0E2 !important;
+    width: auto;
+    outline:none
+}
+
+body .button a:hover, body .button input:not(input[type=submit]):hover, body .button button:hover {
+    color: #052644 !important;
+    border: 1px solid #052644 !important;
+    cursor:pointer
+}
+
+body a.btn.icon-buy, body input.btn.icon-buy, body button.btn.icon-buy, body .search-product .button input, body .features .pdr .pdr-block .cta-button a, body .introduction .center .content .button, body .btn-primary, body #ctl00_ContentPlaceHolderMain_SignInControl1_hyperlinkRegister, body .cart-pending .add-cart-button .add-cart-button-inactive, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_Signin1_hyperlinkRegister, body a.btn.btn-xxl, body input.btn.btn-xxl, body button.btn.btn-xxl, body #eucookielawcontainer .bannerbuttons .button a, body #ctl00_ContentPlaceHolderMain_hyperlinkRetakePayment, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_ButtonSubmit, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_GigyaLogin_createAccountButton_hyperlinkRegister, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_createAccountButton_hyperlinkRegister, body #masterHead.bridgingdesign #topNav .dropdown .block .menu-header > li.parent.button a.dlgButton.cta-principale, body .cta-primary-button, body .genericForm .button input, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_ctl00_lnkWhereToBuy, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_ctl00_panelMoreDetails .buynow-btn-show, body.isPdpPage .moredetails #buynowBtnWrapper a, body.isPdpPage .manualFaqSupport .search-product .button input {
+    font-weight: 900;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 36px !important;
+    background: none !important;
+    padding: 0 35px !important;
+    height: 45px;
+    line-height: 45px;
+    border: none !important;
+    outline: none;
+    text-decoration: none !important;
+    -webkit-appearance: none;
+    outline: none;
+    color: #fff !important;
+    background-color: #58B0E2 !important;
+    width:auto
+}
+
+body a.btn.icon-buy:hover, body input.btn.icon-buy:hover, body button.btn.icon-buy:hover, body .search-product .button input:hover, body .features .pdr .pdr-block .cta-button a:hover, body .introduction .center .content .button:hover, body .btn-primary:hover, body #ctl00_ContentPlaceHolderMain_SignInControl1_hyperlinkRegister:hover, body .cart-pending .add-cart-button .add-cart-button-inactive:hover, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_Signin1_hyperlinkRegister:hover, body a.btn.btn-xxl:hover, body input.btn.btn-xxl:hover, body button.btn.btn-xxl:hover, body #eucookielawcontainer .bannerbuttons .button a:hover, body #ctl00_ContentPlaceHolderMain_hyperlinkRetakePayment:hover, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_ButtonSubmit:hover, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_GigyaLogin_createAccountButton_hyperlinkRegister:hover, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_createAccountButton_hyperlinkRegister:hover, body #masterHead.bridgingdesign #topNav .dropdown .block .menu-header > li.parent.button a.dlgButton.cta-principale:hover, body .cta-primary-button:hover, body .genericForm .button input:hover, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_ctl00_lnkWhereToBuy:hover, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_ctl00_panelMoreDetails .buynow-btn-show:hover, body.isPdpPage .moredetails #buynowBtnWrapper a:hover, body.isPdpPage .manualFaqSupport .search-product .button input:hover {
+    background-color: #052644 !important;
+    cursor:pointer
+}
+
+body .button input[type=submit]#ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_PromotionCodeDiscount1_buttonApplyCode, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_buttonBack, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_Signin2_buttonSignIn, body #ctl00_ContentPlaceHolderMain_AddressSelectionControl_HyperLinkAddAddress, body #ctl00_ContentPlaceHolderMain_AddressAddEdit_buttonAddressCancel, body a.btn.checkout-back, body input.btn.checkout-back, body button.btn.checkout-back, body #ctl00_ContentPlaceHolderMain_hyperlinkContinueShopping, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_ProductListing_HyperLinkCompareProduct, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_AddressEditForListing_buttonAddressCancel, body .cta-secondary-button {
+    font-weight: 900;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: 22.5px;
+    background: none !important;
+    padding: 0 35px !important;
+    height: 43px;
+    line-height: 43px;
+    text-decoration: none !important;
+    -webkit-appearance: none;
+    color: #58B0E2 !important;
+    border: 1px solid #58B0E2 !important;
+    width: auto;
+    outline:none
+}
+
+body .button input[type=submit]#ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_PromotionCodeDiscount1_buttonApplyCode:hover, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_buttonBack:hover, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_Signin2_buttonSignIn:hover, body #ctl00_ContentPlaceHolderMain_AddressSelectionControl_HyperLinkAddAddress:hover, body #ctl00_ContentPlaceHolderMain_AddressAddEdit_buttonAddressCancel:hover, body a.btn.checkout-back:hover, body input.btn.checkout-back:hover, body button.btn.checkout-back:hover, body #ctl00_ContentPlaceHolderMain_hyperlinkContinueShopping:hover, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_ProductListing_HyperLinkCompareProduct:hover, body #ctl00_ContentPlaceHolderAll_ContentPlaceHolderMain_AddressEditForListing_buttonAddressCancel:hover, body .cta-secondary-button:hover {
+    color: #052644 !important;
+    border: 1px solid #052644 !important;
+    cursor:pointer
+}
+
+@media only screen and (min-width: 768px) {
+    #overlay > .inner {
+        max-width:45% !important
+    }
+}
+
+.gigya-screen h1, .gigya-screen h2, .gigya-screen h3, .gigya-screen h4, .gigya-screen h5, .gigya-screen h6 {
+    font-family: 'notobold' !important;
+    font-weight: normal !important
+}
+
+.button input[type="submit"].dlgButton, .button input[type="button"].dlgButton {
+    font-family: 'notobold' !important;
+    font-weight:normal !important
+}
+
+.gigya-custom__error-message {
+    margin-top: 10px;
+    display: block;
+    color:red
+}
+
+.order-summary-address-error-message {
+    display: block;
+    color:red
+}
+
+#gigyaCompleteRegistrationDiv.modal {
+    max-height: 80vh;
+    overflow-y: auto;
+    transform: translateY(-50%);
+    position: absolute;
+    margin-top: 115px !important;
+    max-width:100%
+}
+
+.gigya-style-modern .js-synchHeights.align-footer .box {
+    padding:0
+}
+
+.js-synchHeights.align-footer .colAside .box-footer {
+    position: static;
+    margin-top:16.5px
+}
+
+.js-synchHeights.align-footer .colAside .box-footer .button.grey a {
+    padding-top: 0 !important;
+    line-height:43px
+}
+
+.gigya-screen-content {
+    max-width:100% !important
+}
+
+.gigya-screen-content div.gigya-screen, .gigya-screen-content div.gigya-screen * {
+    margin: 0;
+    font-family: 'notoregular', Helvetica, Arial, sans-serif;
+    color:#333
+}
+
+.gigya-screen-content div.gigya-screen.landscape, .gigya-screen-content div.gigya-screen.portrait {
+    width: 100%;
+    padding: 0;
+    text-align: left
+}
+
+.gigya-screen-content div.gigya-screen.landscape input[type='text']:focus, .gigya-screen-content div.gigya-screen.landscape input[type='number']:focus, .gigya-screen-content div.gigya-screen.landscape input[type='email']:focus, .gigya-screen-content div.gigya-screen.landscape input[type='password']:focus, .gigya-screen-content div.gigya-screen.landscape textarea:focus, .gigya-screen-content div.gigya-screen.portrait input[type='text']:focus, .gigya-screen-content div.gigya-screen.portrait input[type='number']:focus, .gigya-screen-content div.gigya-screen.portrait input[type='email']:focus, .gigya-screen-content div.gigya-screen.portrait input[type='password']:focus, .gigya-screen-content div.gigya-screen.portrait textarea:focus {
+    font-size: 12px !important;
+    -webkit-text-size-adjust:100%
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+    .gigya-screen-content div.gigya-screen.landscape select:focus, .gigya-screen-content div.gigya-screen.landscape textarea:focus, .gigya-screen-content div.gigya-screen.landscape input:focus, .gigya-screen-content div.gigya-screen.portrait select:focus, .gigya-screen-content div.gigya-screen.portrait textarea:focus, .gigya-screen-content div.gigya-screen.portrait input:focus {
+        font-size:12px
+    }
+}
+
+.gigya-screen-content div.gigya-screen.landscape .gigya-layout-row, .gigya-screen-content div.gigya-screen.portrait .gigya-layout-row {
+    display:block
+}
+
+.gigya-screen-content div.gigya-screen.landscape .gigya-layout-row.with-divider > .gigya-layout-cell.with-site-login, .gigya-screen-content div.gigya-screen.landscape .gigya-layout-row.with-divider > .gigya-layout-cell.with-social-login .gigya-layout-row, .gigya-screen-content div.gigya-screen.landscape .gigya-layout-cell, .gigya-screen-content div.gigya-screen.portrait .gigya-layout-row.with-divider > .gigya-layout-cell.with-site-login, .gigya-screen-content div.gigya-screen.portrait .gigya-layout-row.with-divider > .gigya-layout-cell.with-social-login .gigya-layout-row, .gigya-screen-content div.gigya-screen.portrait .gigya-layout-cell {
+    width: 100%;
+    display: block;
+    float:none
+}
+
+@media screen and (min-width: 1024px) {
+    .gigya-screen-content div.gigya-screen.landscape .gigya-layout-row.with-divider > .gigya-layout-cell.with-site-login .gigya-composite-control, .gigya-screen-content div.gigya-screen.portrait .gigya-layout-row.with-divider > .gigya-layout-cell.with-site-login .gigya-composite-control {
+        max-width:75%
+    }
+}
+
+.gigya-screen-content div.gigya-screen.landscape .gigya-layout-row.with-divider > .gigya-layout-cell.with-site-login .gigya-composite-control.gigya-spacer, .gigya-screen-content div.gigya-screen.portrait .gigya-layout-row.with-divider > .gigya-layout-cell.with-site-login .gigya-composite-control.gigya-spacer {
+    display:none
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-spacer {
+    padding: 0;
+    margin:0
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-label {
+    padding-bottom: 0;
+    text-align:left
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.dlgSubscription .subscription-name-label {
+    font-family: 'notoregular', Arial, Helvetica, Verdana, sans-serif;
+    color: #333;
+    font-weight: normal;
+    font-size:12px
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.gdprDescription, .gigya-screen-content div.gigya-screen .gigya-composite-control.gdprRevokeEmail, .gigya-screen-content div.gigya-screen .gigya-composite-control.gdprRovokeEmail, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDescription, .gigya-screen-content div.gigya-screen .gigya-composite-control.gdprConsent, .gigya-screen-content div.gigya-screen .gigya-composite-control.dgprConsent {
+    font-family: 'notoregular', Arial, Helvetica, Verdana, sans-serif;
+    color: #333;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15.6px;
+    width: 100%;
+    padding: 0;
+    text-align: left
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.gdprDescription input[type="checkbox"], .gigya-screen-content div.gigya-screen .gigya-composite-control.gdprRevokeEmail input[type="checkbox"], .gigya-screen-content div.gigya-screen .gigya-composite-control.gdprRovokeEmail input[type="checkbox"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDescription input[type="checkbox"], .gigya-screen-content div.gigya-screen .gigya-composite-control.gdprConsent input[type="checkbox"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dgprConsent input[type="checkbox"] {
+    margin:0
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.gdprDescription a, .gigya-screen-content div.gigya-screen .gigya-composite-control.gdprRevokeEmail a, .gigya-screen-content div.gigya-screen .gigya-composite-control.gdprRovokeEmail a, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDescription a, .gigya-screen-content div.gigya-screen .gigya-composite-control.gdprConsent a, .gigya-screen-content div.gigya-screen .gigya-composite-control.dgprConsent a {
+    text-decoration:underline
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.gdprDescription .gigya-checkbox-text, .gigya-screen-content div.gigya-screen .gigya-composite-control.gdprRevokeEmail .gigya-checkbox-text, .gigya-screen-content div.gigya-screen .gigya-composite-control.gdprRovokeEmail .gigya-checkbox-text, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDescription .gigya-checkbox-text, .gigya-screen-content div.gigya-screen .gigya-composite-control.gdprConsent .gigya-checkbox-text, .gigya-screen-content div.gigya-screen .gigya-composite-control.dgprConsent .gigya-checkbox-text {
+    font-family: 'notoregular', Arial, Helvetica, Verdana, sans-serif;
+    color: #333;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15.6px;
+    margin-top: 0;
+    display: block;
+    padding-right:10px
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.gdprDescription .gigya-checkbox-text a, .gigya-screen-content div.gigya-screen .gigya-composite-control.gdprRevokeEmail .gigya-checkbox-text a, .gigya-screen-content div.gigya-screen .gigya-composite-control.gdprRovokeEmail .gigya-checkbox-text a, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDescription .gigya-checkbox-text a, .gigya-screen-content div.gigya-screen .gigya-composite-control.gdprConsent .gigya-checkbox-text a, .gigya-screen-content div.gigya-screen .gigya-composite-control.dgprConsent .gigya-checkbox-text a {
+    color: #58b0e2;
+    text-decoration:underline
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.gdprDescription .gigya-checkbox-text strong, .gigya-screen-content div.gigya-screen .gigya-composite-control.gdprRevokeEmail .gigya-checkbox-text strong, .gigya-screen-content div.gigya-screen .gigya-composite-control.gdprRovokeEmail .gigya-checkbox-text strong, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDescription .gigya-checkbox-text strong, .gigya-screen-content div.gigya-screen .gigya-composite-control.gdprConsent .gigya-checkbox-text strong, .gigya-screen-content div.gigya-screen .gigya-composite-control.dgprConsent .gigya-checkbox-text strong {
+    font-size:12px
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.main-text {
+    font-family: 'notoregular', 'FuturaNewBook', Arial, Helvetica, Verdana, sans-serif;
+    font-size: 21px;
+    color: #333;
+    line-height:1.2
+}
+
+.gigya-screen-content div.gigya-screen .gigya-social-login-container, .gigya-screen-content div.gigya-screen .gigya-social-login-container > div {
+    width:100% !important
+}
+
+.gigya-screen-content div.gigya-screen .gigya-layout-row, .gigya-screen-content div.gigya-screen .gigya-layout-cell {
+    text-align:left
+}
+
+.gigya-screen-content div.gigya-screen .gigya-layout-row.with-divider {
+    padding-bottom:0
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control {
+    margin-bottom:10px
+}
+
+@media screen and (min-width: 1024px) {
+    .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-dropdown.dlgFrequency {
+        max-width:200px
+    }
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-dropdown .gigya-error-msg-active, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password .gigya-error-msg-active, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-textbox .gigya-error-msg-active, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-form-error .gigya-form-error-msg {
+    text-align: left;
+    color: #FF0000;
+    font-size: 11.04px;
+    padding: 0;
+    margin-top: 3px;
+    font-family: 'notoregular', Arial, Helvetica, Verdana, sans-serif
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.dlgHeader {
+    margin-bottom:10px
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-social-login {
+    right:0
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-header {
+    padding-bottom:0
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control .dlgDescription {
+    padding-bottom:0
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link {
+    font-weight: 900;
+    font-size: 12px;
+    letter-spacing: 0.8px;
+    color: #58B0E2 !important;
+    border: 0;
+    padding: 0 0 2px !important;
+    border-bottom: 1px solid #58B0E2 !important;
+    background: none !important;
+    border-radius: 0 !important;
+    text-decoration: none !important;
+    height: auto;
+    line-height: normal !important;
+    text-transform: inherit;
+    display:inline-block
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link:hover, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link:focus {
+    color: #052644 !important;
+    border-bottom: 1px solid #052644 !important;
+    cursor:pointer
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link:visited {
+    color: #1D56A2 !important;
+    border-bottom:1px solid #1D56A2 !important
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.gigya-button-link, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.dlgButton {
+    overflow: auto;
+    border-bottom: 0 !important;
+    margin-bottom:0
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.gigya-button-link:before, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.dlgButton:before {
+    content:none
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.gigya-button-link, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.dlgLink {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right:15px
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox .gigya-label, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm .gigya-label, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmails .gigya-label, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown .gigya-label, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail .gigya-label, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-textbox .gigya-label, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password .gigya-label {
+    padding: 0;
+    margin-bottom:3px
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox .gigya-label .gigya-label-text, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm .gigya-label .gigya-label-text, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmails .gigya-label .gigya-label-text, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown .gigya-label .gigya-label-text, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail .gigya-label .gigya-label-text, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-textbox .gigya-label .gigya-label-text, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password .gigya-label .gigya-label-text {
+    font-family: 'notobold' !important;
+    font-size: 12px;
+    color:#333
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password {
+    padding-bottom: 0
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="text"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="email"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="password"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox select, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox .gigya-input-text, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox .gigya-input-password, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="text"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="email"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="password"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown select, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown .gigya-input-text, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown .gigya-input-password, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="text"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="email"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="password"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm select, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm .gigya-input-text, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm .gigya-input-password, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="text"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="email"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="password"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail select, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail .gigya-input-text, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail .gigya-input-password, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="text"], .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="email"], .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="password"], .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password select, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password .gigya-input-text, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password .gigya-input-password {
+    -webkit-transition: border linear 0.2s, box-shadow linear 0.2s;
+    -moz-transition: border linear 0.2s, box-shadow linear 0.2s;
+    -ms-transition: border linear 0.2s, box-shadow linear 0.2s;
+    -o-transition: border linear 0.2s, box-shadow linear 0.2s;
+    transition: border linear 0.2s, box-shadow linear 0.2s;
+    -webkit-box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.1);
+    font-size: 12px !important;
+    color: #333 !important
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="text"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="email"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="password"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox select, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox .gigya-input-text, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox .gigya-input-password, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="text"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="email"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="password"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown select, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown .gigya-input-text, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown .gigya-input-password, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="text"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="email"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="password"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm select, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm .gigya-input-text, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm .gigya-input-password, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="text"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="email"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="password"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail select, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail .gigya-input-text, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail .gigya-input-password, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="text"], .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="email"], .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="password"], .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password select, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password .gigya-input-text, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password .gigya-input-password {
+    display: inline-block;
+    background-color: #fff;
+    font-size: 12px;
+    color: #333;
+    padding: 0 5px;
+    border: 1px solid #ccc;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    height: 30px;
+    line-height: 30px;
+    margin-bottom: 0;
+    font-family: 'notoregular', Arial, Helvetica, Verdana, sans-serif
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="text"]:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="text"]:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="email"]:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="email"]:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="password"]:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="password"]:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox select:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox select:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox .gigya-input-text:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox .gigya-input-text:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox .gigya-input-password:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox .gigya-input-password:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="text"]:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="text"]:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="email"]:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="email"]:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="password"]:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="password"]:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown select:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown select:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown .gigya-input-text:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown .gigya-input-text:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown .gigya-input-password:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown .gigya-input-password:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="text"]:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="text"]:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="email"]:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="email"]:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="password"]:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="password"]:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm select:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm select:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm .gigya-input-text:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm .gigya-input-text:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm .gigya-input-password:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm .gigya-input-password:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="text"]:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="text"]:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="email"]:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="email"]:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="password"]:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="password"]:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail select:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail select:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail .gigya-input-text:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail .gigya-input-text:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail .gigya-input-password:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail .gigya-input-password:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="text"]:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="text"]:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="email"]:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="email"]:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="password"]:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="password"]:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password select:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password select:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password .gigya-input-text:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password .gigya-input-text:active, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password .gigya-input-password:focus, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password .gigya-input-password:active {
+    outline: 0;
+    border-color: rgba(82, 168, 236, 0.8);
+    -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px rgba(82, 168, 236, 0.6);
+    -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px rgba(82, 168, 236, 0.6);
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px rgba(82, 168, 236, 0.6)
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="text"]::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="email"]::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="password"]::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox select::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox .gigya-input-text::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox .gigya-input-password::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="text"]::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="email"]::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="password"]::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown select::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown .gigya-input-text::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown .gigya-input-password::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="text"]::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="email"]::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="password"]::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm select::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm .gigya-input-text::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm .gigya-input-password::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="text"]::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="email"]::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="password"]::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail select::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail .gigya-input-text::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail .gigya-input-password::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="text"]::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="email"]::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="password"]::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password select::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password .gigya-input-text::-webkit-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password .gigya-input-password::-webkit-input-placeholder {
+    font-size: 12px
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="text"]::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="email"]::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="password"]::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox select::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox .gigya-input-text::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox .gigya-input-password::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="text"]::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="email"]::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="password"]::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown select::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown .gigya-input-text::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown .gigya-input-password::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="text"]::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="email"]::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="password"]::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm select::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm .gigya-input-text::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm .gigya-input-password::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="text"]::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="email"]::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="password"]::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail select::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail .gigya-input-text::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail .gigya-input-password::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="text"]::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="email"]::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="password"]::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password select::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password .gigya-input-text::-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password .gigya-input-password::-moz-placeholder {
+    font-size: 12px
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="text"]:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="email"]:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="password"]:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox select:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox .gigya-input-text:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox .gigya-input-password:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="text"]:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="email"]:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="password"]:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown select:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown .gigya-input-text:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown .gigya-input-password:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="text"]:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="email"]:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="password"]:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm select:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm .gigya-input-text:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm .gigya-input-password:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="text"]:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="email"]:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="password"]:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail select:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail .gigya-input-text:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail .gigya-input-password:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="text"]:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="email"]:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="password"]:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password select:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password .gigya-input-text:-ms-input-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password .gigya-input-password:-ms-input-placeholder {
+    font-size: 12px
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="text"]:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="email"]:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox input[type="password"]:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox select:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox .gigya-input-text:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgTextbox .gigya-input-password:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="text"]:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="email"]:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown input[type="password"]:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown select:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown .gigya-input-text:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgDropdown .gigya-input-password:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="text"]:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="email"]:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm input[type="password"]:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm select:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm .gigya-input-text:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmailConfirm .gigya-input-password:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="text"]:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="email"]:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail input[type="password"]:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail select:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail .gigya-input-text:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgEmail .gigya-input-password:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="text"]:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="email"]:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password input[type="password"]:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password select:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password .gigya-input-text:-moz-placeholder, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-password .gigya-input-password:-moz-placeholder {
+    font-size:12px
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.dlgButton, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-button-link {
+    position: relative;
+    width: auto;
+    display: inline-block;
+    background: none;
+    padding-bottom: 0
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.dlgButton input[type="submit"], .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgButton input[type="button"], .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-button-link input[type="submit"], .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-button-link input[type="button"] {
+    font-weight: 900;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 36px !important;
+    background: none !important;
+    padding: 0 35px !important;
+    height: 45px;
+    line-height: 45px;
+    border: none !important;
+    outline: none;
+    text-decoration: none !important;
+    -webkit-appearance: none;
+    outline: none;
+    color: #fff !important;
+    background-color: #58B0E2 !important;
+    width: auto
+}
+
+.gigya-screen-content div.gigya-screen .gigya-composite-control.dlgButton input[type="submit"]:hover, .gigya-screen-content div.gigya-screen .gigya-composite-control.dlgButton input[type="button"]:hover, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-button-link input[type="submit"]:hover, .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-button-link input[type="button"]:hover {
+    background-color: #052644 !important;
+    cursor:pointer
+}
+
+.gigya-screen-content div.gigya-screen .gigya-layout-row.grid--dividers > .gigya-login__item::before {
+    content: ' ';
+    display: block;
+    height: 9999px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin-left: -10px;
+    width: 2px;
+    background:#EAEAEA
+}
+
+.gigya-screen-content div.gigya-screen .gigya-layout-row.grid--dividers > .gigya-login__item .gigya-screen.landscape .gigya-layout-row.with-divider > .gigya-layout-cell.with-divider {
+    background: none;
+    visibility:hidden
+}
+
+.gigya-screen-content div.gigya-screen .gigya-layout-row .with-social-login .gigya-composite-control.gigya-composite-control-label, .gigya-screen-content div.gigya-screen .gigya-layout-row .with-site-login .gigya-composite-control.gigya-composite-control-label {
+    font-family: 'notoregular', Arial, Helvetica, Verdana, sans-serif;
+    color: #333;
+    font-weight: normal;
+    font-size: 12px;
+    line-height:15.6px
+}
+
+@media only screen and (min-width: 1200px) {
+    .gigya-screen-content div.gigya-screen .gigya-layout-row .with-social-login .gigya-composite-control.gigya-composite-control-label, .gigya-screen-content div.gigya-screen .gigya-layout-row .with-site-login .gigya-composite-control.gigya-composite-control-label {
+        font-size: 15px;
+        line-height:19.5px
+    }
+}
+
+.gigya-screen-content div.gigya-screen .gigya-layout-row .with-social-login .dlgSocialLogin, .gigya-screen-content div.gigya-screen .gigya-layout-row .with-site-login .dlgSocialLogin {
+    margin-bottom:0
+}
+
+.gigya-screen-content div.gigya-screen .gigya-layout-row .with-social-login .dlgSocialLogin .gigya-social-login-container, .gigya-screen-content div.gigya-screen .gigya-layout-row .with-site-login .dlgSocialLogin .gigya-social-login-container {
+    height:auto !important
+}
+
+.gigya-screen-content div.gigya-screen .gigya-layout-row .with-social-login .dlgSocialLogin .gigya-social-login-container > div, .gigya-screen-content div.gigya-screen .gigya-layout-row .with-site-login .dlgSocialLogin .gigya-social-login-container > div {
+    height:auto !important
+}
+
+.gigya-screen-content div.gigya-screen .gdprConsent .gigya-label .gigya-checkbox-text {
+    font-weight:normal
+}
+
+.gigya-screen-content div.gigya-screen .gdprConsent .gigya-label .gigya-label-text {
+    font-family: 'notoregular', Arial, Helvetica, Verdana, sans-serif;
+    color: #333;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15.6px;
+    width: 100%;
+    padding: 0;
+    text-align:left
+}
+
+.gigya-screen-content div.gigya-screen .gdprConsent .gigya-label .gigya-label-text > strong:first-child::after {
+    content: '*';
+    color: #e76468;
+    margin-left: 5px;
+    font-family: 'notobold' !important;
+    font-size:t-rem(17px)
+}
+
+.gigya-screen-content div.gigya-screen .gdprConsent .gigya-label .gigya-required-display {
+    display:none
+}
+
+#content .gigya-screen table, #overlay .gigya-screen table {
+    border: 0;
+    width:auto !important
+}
+
+#content .gigya-screen table.gigya-login-providers-container, #overlay .gigya-screen table.gigya-login-providers-container {
+    margin:0
+}
+
+#content .gigya-screen table.gigya-login-providers-container td, #overlay .gigya-screen table.gigya-login-providers-container td {
+    margin: 0;
+    border: 0;
+    background: none;
+    padding: 0;
+    width:auto !important
+}
+
+#content .gigya-screen .gigya-composite-control.gdprDescription, #content .gigya-screen .gigya-composite-control.gdprRevokeEmail, #content .gigya-screen .gigya-composite-control.gdprRovokeEmail, #content .gigya-screen .gigya-composite-control.dlgDescription, #content .gigya-screen .gigya-composite-control.gdprConsent, #content .gigya-screen .gigya-composite-control.dgprConsent, #content .gigya-screen .gigya-composite-control.dlgCheckbox, #overlay .gigya-screen .gigya-composite-control.gdprDescription, #overlay .gigya-screen .gigya-composite-control.gdprRevokeEmail, #overlay .gigya-screen .gigya-composite-control.gdprRovokeEmail, #overlay .gigya-screen .gigya-composite-control.dlgDescription, #overlay .gigya-screen .gigya-composite-control.gdprConsent, #overlay .gigya-screen .gigya-composite-control.dgprConsent, #overlay .gigya-screen .gigya-composite-control.dlgCheckbox {
+    font-family: 'notoregular', Arial, Helvetica, Verdana, sans-serif;
+    color: #333;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15.6px;
+    width: 100%;
+    padding: 0;
+    text-align:left
+}
+
+#content .gigya-screen .gigya-composite-control.gdprDescription .gigya-checkbox-text, #content .gigya-screen .gigya-composite-control.gdprRevokeEmail .gigya-checkbox-text, #content .gigya-screen .gigya-composite-control.gdprRovokeEmail .gigya-checkbox-text, #content .gigya-screen .gigya-composite-control.dlgDescription .gigya-checkbox-text, #content .gigya-screen .gigya-composite-control.gdprConsent .gigya-checkbox-text, #content .gigya-screen .gigya-composite-control.dgprConsent .gigya-checkbox-text, #content .gigya-screen .gigya-composite-control.dlgCheckbox .gigya-checkbox-text, #overlay .gigya-screen .gigya-composite-control.gdprDescription .gigya-checkbox-text, #overlay .gigya-screen .gigya-composite-control.gdprRevokeEmail .gigya-checkbox-text, #overlay .gigya-screen .gigya-composite-control.gdprRovokeEmail .gigya-checkbox-text, #overlay .gigya-screen .gigya-composite-control.dlgDescription .gigya-checkbox-text, #overlay .gigya-screen .gigya-composite-control.gdprConsent .gigya-checkbox-text, #overlay .gigya-screen .gigya-composite-control.dgprConsent .gigya-checkbox-text, #overlay .gigya-screen .gigya-composite-control.dlgCheckbox .gigya-checkbox-text {
+    font-family: 'notoregular', Arial, Helvetica, Verdana, sans-serif;
+    color: #333;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15.6px;
+    margin-top: 0;
+    display: block;
+    padding-right:10px
+}
+
+#content .gigya-screen .gigya-composite-control.gdprDescription .gigya-checkbox-text strong, #content .gigya-screen .gigya-composite-control.gdprRevokeEmail .gigya-checkbox-text strong, #content .gigya-screen .gigya-composite-control.gdprRovokeEmail .gigya-checkbox-text strong, #content .gigya-screen .gigya-composite-control.dlgDescription .gigya-checkbox-text strong, #content .gigya-screen .gigya-composite-control.gdprConsent .gigya-checkbox-text strong, #content .gigya-screen .gigya-composite-control.dgprConsent .gigya-checkbox-text strong, #content .gigya-screen .gigya-composite-control.dlgCheckbox .gigya-checkbox-text strong, #overlay .gigya-screen .gigya-composite-control.gdprDescription .gigya-checkbox-text strong, #overlay .gigya-screen .gigya-composite-control.gdprRevokeEmail .gigya-checkbox-text strong, #overlay .gigya-screen .gigya-composite-control.gdprRovokeEmail .gigya-checkbox-text strong, #overlay .gigya-screen .gigya-composite-control.dlgDescription .gigya-checkbox-text strong, #overlay .gigya-screen .gigya-composite-control.gdprConsent .gigya-checkbox-text strong, #overlay .gigya-screen .gigya-composite-control.dgprConsent .gigya-checkbox-text strong, #overlay .gigya-screen .gigya-composite-control.dlgCheckbox .gigya-checkbox-text strong {
+    font-size:12px
+}
+
+#content .gigya-screen .gigya-composite-control.gdprDescription strong, #content .gigya-screen .gigya-composite-control.gdprRevokeEmail strong, #content .gigya-screen .gigya-composite-control.gdprRovokeEmail strong, #content .gigya-screen .gigya-composite-control.dlgDescription strong, #content .gigya-screen .gigya-composite-control.gdprConsent strong, #content .gigya-screen .gigya-composite-control.dgprConsent strong, #content .gigya-screen .gigya-composite-control.dlgCheckbox strong, #overlay .gigya-screen .gigya-composite-control.gdprDescription strong, #overlay .gigya-screen .gigya-composite-control.gdprRevokeEmail strong, #overlay .gigya-screen .gigya-composite-control.gdprRovokeEmail strong, #overlay .gigya-screen .gigya-composite-control.dlgDescription strong, #overlay .gigya-screen .gigya-composite-control.gdprConsent strong, #overlay .gigya-screen .gigya-composite-control.dgprConsent strong, #overlay .gigya-screen .gigya-composite-control.dlgCheckbox strong {
+    font-family: 'notobold', Arial, Helvetica, Verdana, sans-serif;
+    color: #333;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15.6px;
+    font-weight:700
+}
+
+#content .gigya-screen .gigya-composite-control.gdprDescription a, #content .gigya-screen .gigya-composite-control.gdprRevokeEmail a, #content .gigya-screen .gigya-composite-control.gdprRovokeEmail a, #content .gigya-screen .gigya-composite-control.dlgDescription a, #content .gigya-screen .gigya-composite-control.gdprConsent a, #content .gigya-screen .gigya-composite-control.dgprConsent a, #content .gigya-screen .gigya-composite-control.dlgCheckbox a, #overlay .gigya-screen .gigya-composite-control.gdprDescription a, #overlay .gigya-screen .gigya-composite-control.gdprRevokeEmail a, #overlay .gigya-screen .gigya-composite-control.gdprRovokeEmail a, #overlay .gigya-screen .gigya-composite-control.dlgDescription a, #overlay .gigya-screen .gigya-composite-control.gdprConsent a, #overlay .gigya-screen .gigya-composite-control.dgprConsent a, #overlay .gigya-screen .gigya-composite-control.dlgCheckbox a {
+    font-weight: 900;
+    font-size: 12px;
+    letter-spacing: 0.8px;
+    color: #58B0E2 !important;
+    border: 0;
+    padding: 0 0 2px !important;
+    border-bottom: 1px solid #58B0E2 !important;
+    background: none !important;
+    border-radius: 0 !important;
+    text-decoration: none !important;
+    height: auto;
+    line-height: normal !important;
+    text-transform:inherit
+}
+
+#content .gigya-screen .gigya-composite-control.gdprDescription a:hover, #content .gigya-screen .gigya-composite-control.gdprDescription a:active, #content .gigya-screen .gigya-composite-control.gdprDescription a:focus, #content .gigya-screen .gigya-composite-control.gdprRevokeEmail a:hover, #content .gigya-screen .gigya-composite-control.gdprRevokeEmail a:active, #content .gigya-screen .gigya-composite-control.gdprRevokeEmail a:focus, #content .gigya-screen .gigya-composite-control.gdprRovokeEmail a:hover, #content .gigya-screen .gigya-composite-control.gdprRovokeEmail a:active, #content .gigya-screen .gigya-composite-control.gdprRovokeEmail a:focus, #content .gigya-screen .gigya-composite-control.dlgDescription a:hover, #content .gigya-screen .gigya-composite-control.dlgDescription a:active, #content .gigya-screen .gigya-composite-control.dlgDescription a:focus, #content .gigya-screen .gigya-composite-control.gdprConsent a:hover, #content .gigya-screen .gigya-composite-control.gdprConsent a:active, #content .gigya-screen .gigya-composite-control.gdprConsent a:focus, #content .gigya-screen .gigya-composite-control.dgprConsent a:hover, #content .gigya-screen .gigya-composite-control.dgprConsent a:active, #content .gigya-screen .gigya-composite-control.dgprConsent a:focus, #content .gigya-screen .gigya-composite-control.dlgCheckbox a:hover, #content .gigya-screen .gigya-composite-control.dlgCheckbox a:active, #content .gigya-screen .gigya-composite-control.dlgCheckbox a:focus, #overlay .gigya-screen .gigya-composite-control.gdprDescription a:hover, #overlay .gigya-screen .gigya-composite-control.gdprDescription a:active, #overlay .gigya-screen .gigya-composite-control.gdprDescription a:focus, #overlay .gigya-screen .gigya-composite-control.gdprRevokeEmail a:hover, #overlay .gigya-screen .gigya-composite-control.gdprRevokeEmail a:active, #overlay .gigya-screen .gigya-composite-control.gdprRevokeEmail a:focus, #overlay .gigya-screen .gigya-composite-control.gdprRovokeEmail a:hover, #overlay .gigya-screen .gigya-composite-control.gdprRovokeEmail a:active, #overlay .gigya-screen .gigya-composite-control.gdprRovokeEmail a:focus, #overlay .gigya-screen .gigya-composite-control.dlgDescription a:hover, #overlay .gigya-screen .gigya-composite-control.dlgDescription a:active, #overlay .gigya-screen .gigya-composite-control.dlgDescription a:focus, #overlay .gigya-screen .gigya-composite-control.gdprConsent a:hover, #overlay .gigya-screen .gigya-composite-control.gdprConsent a:active, #overlay .gigya-screen .gigya-composite-control.gdprConsent a:focus, #overlay .gigya-screen .gigya-composite-control.dgprConsent a:hover, #overlay .gigya-screen .gigya-composite-control.dgprConsent a:active, #overlay .gigya-screen .gigya-composite-control.dgprConsent a:focus, #overlay .gigya-screen .gigya-composite-control.dlgCheckbox a:hover, #overlay .gigya-screen .gigya-composite-control.dlgCheckbox a:active, #overlay .gigya-screen .gigya-composite-control.dlgCheckbox a:focus {
+    color: #052644 !important;
+    border-bottom: 1px solid #052644 !important;
+    cursor:pointer
+}
+
+#content .gigya-screen .gigya-composite-control.gdprDescription a:visited, #content .gigya-screen .gigya-composite-control.gdprRevokeEmail a:visited, #content .gigya-screen .gigya-composite-control.gdprRovokeEmail a:visited, #content .gigya-screen .gigya-composite-control.dlgDescription a:visited, #content .gigya-screen .gigya-composite-control.gdprConsent a:visited, #content .gigya-screen .gigya-composite-control.dgprConsent a:visited, #content .gigya-screen .gigya-composite-control.dlgCheckbox a:visited, #overlay .gigya-screen .gigya-composite-control.gdprDescription a:visited, #overlay .gigya-screen .gigya-composite-control.gdprRevokeEmail a:visited, #overlay .gigya-screen .gigya-composite-control.gdprRovokeEmail a:visited, #overlay .gigya-screen .gigya-composite-control.dlgDescription a:visited, #overlay .gigya-screen .gigya-composite-control.gdprConsent a:visited, #overlay .gigya-screen .gigya-composite-control.dgprConsent a:visited, #overlay .gigya-screen .gigya-composite-control.dlgCheckbox a:visited {
+    color: #1D56A2 !important;
+    border-bottom:1px solid #1D56A2 !important
+}
+
+#content .gigya-screen .gigya-composite-control.gdprDescription, #overlay .gigya-screen .gigya-composite-control.gdprDescription {
+    margin-bottom:20px
+}
+
+#content .gigya-screen .gigya-composite-control.gigya-composite-control-header, #overlay .gigya-screen .gigya-composite-control.gigya-composite-control-header {
+    max-width: none !important;
+    font-family: 'notoregular', Arial, Helvetica, Verdana, sans-serif;
+    font-size: 12px;
+    color:#333
+}
+
+#content .gigya-screen .gigya-composite-control.gigya-composite-control-header.dlgHeader, #overlay .gigya-screen .gigya-composite-control.gigya-composite-control-header.dlgHeader {
+    font-family: 'notoregular', 'FuturaNewBook', Arial, Helvetica, Verdana, sans-serif;
+    font-size: 21px;
+    color:#333
+}
+
+#content .gigya-screen .gigya-composite-control.gigya-composite-control-header.gdprTitle, #overlay .gigya-screen .gigya-composite-control.gigya-composite-control-header.gdprTitle {
+    max-width: none;
+    font-family: 'notoregular', 'FuturaNewBook', Arial, Helvetica, Verdana, sans-serif;
+    font-size: 21px;
+    color: #333;
+    line-height:1.2
+}
+
+#content .gigya-screen .gigya-composite-control.gigya-spacer, #overlay .gigya-screen .gigya-composite-control.gigya-spacer {
+    margin-bottom: 10px;
+    padding:0
+}
+
+#content .gigya-screen .gigya-composite-control.gdprConsent .gigya-label .gigya-label-text, #overlay .gigya-screen .gigya-composite-control.gdprConsent .gigya-label .gigya-label-text {
+    font-family: 'notoregular', Arial, Helvetica, Verdana, sans-serif;
+    font-size: 12px;
+    color: #333;
+    line-height:15.6px
+}
+
+#content .gigya-screen .gigya-composite-control.gdprConsent .gigya-label .gigya-label-text strong, #overlay .gigya-screen .gigya-composite-control.gdprConsent .gigya-label .gigya-label-text strong {
+    font-size: 12px;
+    color:#333
+}
+
+#content .gigya-screen .gigya-composite-control.gdprConsent .gigya-multi-choice-item, #overlay .gigya-screen .gigya-composite-control.gdprConsent .gigya-multi-choice-item {
+    display: inline-block;
+    vertical-align: middle;
+    width:25%
+}
+
+#content .gigya-screen .gigya-composite-control.gdprConsent .gigya-multi-choice-item label, #overlay .gigya-screen .gigya-composite-control.gdprConsent .gigya-multi-choice-item label {
+    font-family: 'notoregular', Arial, Helvetica, Verdana, sans-serif;
+    font-size: 12px;
+    color: #333;
+    width: auto;
+    display: inline-block;
+    margin-left:0
+}
+
+#content.container .colMain h2, #content.container .colAside h2, #overlay.container .colMain h2, #overlay.container .colAside h2 {
+    font-family: 'notoregular', 'FuturaNewBook', Arial, Helvetica, Verdana, sans-serif;
+    color: #333;
+    font-size: 21px;
+    line-height: 29.4px;
+    color:#333
+}
+
+#content.container .colMain .box p, #content.container .colMain .box ul, #content.container .colMain .box li, #content.container .colAside .box p, #content.container .colAside .box ul, #content.container .colAside .box li, #overlay.container .colMain .box p, #overlay.container .colMain .box ul, #overlay.container .colMain .box li, #overlay.container .colAside .box p, #overlay.container .colAside .box ul, #overlay.container .colAside .box li {
+    font-family: 'notoregular', Arial, Helvetica, Verdana, sans-serif;
+    color: #333;
+    font-weight: normal;
+    font-size: 12px;
+    line-height:15.6px
+}
+
+#content.container .gigya-login__form .colMain .box p, #content.container .gigya-login__form .colMain .box ul, #content.container .gigya-login__form .colMain .box li, #content.container .gigya-login__form .colAside .box p, #content.container .gigya-login__form .colAside .box ul, #content.container .gigya-login__form .colAside .box li, #content.container .gigya-login__form .col .box p, #content.container .gigya-login__form .col .box ul, #content.container .gigya-login__form .col .box li, #content.container .checkout-login--container .colMain .box p, #content.container .checkout-login--container .colMain .box ul, #content.container .checkout-login--container .colMain .box li, #content.container .checkout-login--container .colAside .box p, #content.container .checkout-login--container .colAside .box ul, #content.container .checkout-login--container .colAside .box li, #content.container .checkout-login--container .col .box p, #content.container .checkout-login--container .col .box ul, #content.container .checkout-login--container .col .box li, #content.container .register-products--section .colMain .box p, #content.container .register-products--section .colMain .box ul, #content.container .register-products--section .colMain .box li, #content.container .register-products--section .colAside .box p, #content.container .register-products--section .colAside .box ul, #content.container .register-products--section .colAside .box li, #content.container .register-products--section .col .box p, #content.container .register-products--section .col .box ul, #content.container .register-products--section .col .box li, #overlay.container .gigya-login__form .colMain .box p, #overlay.container .gigya-login__form .colMain .box ul, #overlay.container .gigya-login__form .colMain .box li, #overlay.container .gigya-login__form .colAside .box p, #overlay.container .gigya-login__form .colAside .box ul, #overlay.container .gigya-login__form .colAside .box li, #overlay.container .gigya-login__form .col .box p, #overlay.container .gigya-login__form .col .box ul, #overlay.container .gigya-login__form .col .box li, #overlay.container .checkout-login--container .colMain .box p, #overlay.container .checkout-login--container .colMain .box ul, #overlay.container .checkout-login--container .colMain .box li, #overlay.container .checkout-login--container .colAside .box p, #overlay.container .checkout-login--container .colAside .box ul, #overlay.container .checkout-login--container .colAside .box li, #overlay.container .checkout-login--container .col .box p, #overlay.container .checkout-login--container .col .box ul, #overlay.container .checkout-login--container .col .box li, #overlay.container .register-products--section .colMain .box p, #overlay.container .register-products--section .colMain .box ul, #overlay.container .register-products--section .colMain .box li, #overlay.container .register-products--section .colAside .box p, #overlay.container .register-products--section .colAside .box ul, #overlay.container .register-products--section .colAside .box li, #overlay.container .register-products--section .col .box p, #overlay.container .register-products--section .col .box ul, #overlay.container .register-products--section .col .box li {
+    font-family: 'notoregular', Arial, Helvetica, Verdana, sans-serif;
+    color: #333;
+    font-weight: normal;
+    font-size: 12px;
+    line-height:15.6px
+}
+
+@media only screen and (min-width: 1200px) {
+    #content.container .gigya-login__form .colMain .box p, #content.container .gigya-login__form .colMain .box ul, #content.container .gigya-login__form .colMain .box li, #content.container .gigya-login__form .colAside .box p, #content.container .gigya-login__form .colAside .box ul, #content.container .gigya-login__form .colAside .box li, #content.container .gigya-login__form .col .box p, #content.container .gigya-login__form .col .box ul, #content.container .gigya-login__form .col .box li, #content.container .checkout-login--container .colMain .box p, #content.container .checkout-login--container .colMain .box ul, #content.container .checkout-login--container .colMain .box li, #content.container .checkout-login--container .colAside .box p, #content.container .checkout-login--container .colAside .box ul, #content.container .checkout-login--container .colAside .box li, #content.container .checkout-login--container .col .box p, #content.container .checkout-login--container .col .box ul, #content.container .checkout-login--container .col .box li, #content.container .register-products--section .colMain .box p, #content.container .register-products--section .colMain .box ul, #content.container .register-products--section .colMain .box li, #content.container .register-products--section .colAside .box p, #content.container .register-products--section .colAside .box ul, #content.container .register-products--section .colAside .box li, #content.container .register-products--section .col .box p, #content.container .register-products--section .col .box ul, #content.container .register-products--section .col .box li, #overlay.container .gigya-login__form .colMain .box p, #overlay.container .gigya-login__form .colMain .box ul, #overlay.container .gigya-login__form .colMain .box li, #overlay.container .gigya-login__form .colAside .box p, #overlay.container .gigya-login__form .colAside .box ul, #overlay.container .gigya-login__form .colAside .box li, #overlay.container .gigya-login__form .col .box p, #overlay.container .gigya-login__form .col .box ul, #overlay.container .gigya-login__form .col .box li, #overlay.container .checkout-login--container .colMain .box p, #overlay.container .checkout-login--container .colMain .box ul, #overlay.container .checkout-login--container .colMain .box li, #overlay.container .checkout-login--container .colAside .box p, #overlay.container .checkout-login--container .colAside .box ul, #overlay.container .checkout-login--container .colAside .box li, #overlay.container .checkout-login--container .col .box p, #overlay.container .checkout-login--container .col .box ul, #overlay.container .checkout-login--container .col .box li, #overlay.container .register-products--section .colMain .box p, #overlay.container .register-products--section .colMain .box ul, #overlay.container .register-products--section .colMain .box li, #overlay.container .register-products--section .colAside .box p, #overlay.container .register-products--section .colAside .box ul, #overlay.container .register-products--section .colAside .box li, #overlay.container .register-products--section .col .box p, #overlay.container .register-products--section .col .box ul, #overlay.container .register-products--section .col .box li {
+        font-size: 15px;
+        line-height:19.5px
+    }
+}
+
+#content.container .gigya-login__form .colMain .box h2, #content.container .gigya-login__form .colAside .box h2, #content.container .gigya-login__form .col .box h2, #content.container .checkout-login--container .colMain .box h2, #content.container .checkout-login--container .colAside .box h2, #content.container .checkout-login--container .col .box h2, #content.container .register-products--section .colMain .box h2, #content.container .register-products--section .colAside .box h2, #content.container .register-products--section .col .box h2, #overlay.container .gigya-login__form .colMain .box h2, #overlay.container .gigya-login__form .colAside .box h2, #overlay.container .gigya-login__form .col .box h2, #overlay.container .checkout-login--container .colMain .box h2, #overlay.container .checkout-login--container .colAside .box h2, #overlay.container .checkout-login--container .col .box h2, #overlay.container .register-products--section .colMain .box h2, #overlay.container .register-products--section .colAside .box h2, #overlay.container .register-products--section .col .box h2 {
+    font-size:21px
+}
+
+#content.container .gigya-login__form .colMain .box h2.gdprDescription, #content.container .gigya-login__form .colMain .box h2.gdrpDescription, #content.container .gigya-login__form .colMain .box h2.gdprRevokeEmail, #content.container .gigya-login__form .colMain .box h2.gdprRovokeEmail, #content.container .gigya-login__form .colMain .box h2.dlgDescription, #content.container .gigya-login__form .colMain .box h2.gdprConsent, #content.container .gigya-login__form .colMain .box h2.dgprConsent, #content.container .gigya-login__form .colAside .box h2.gdprDescription, #content.container .gigya-login__form .colAside .box h2.gdrpDescription, #content.container .gigya-login__form .colAside .box h2.gdprRevokeEmail, #content.container .gigya-login__form .colAside .box h2.gdprRovokeEmail, #content.container .gigya-login__form .colAside .box h2.dlgDescription, #content.container .gigya-login__form .colAside .box h2.gdprConsent, #content.container .gigya-login__form .colAside .box h2.dgprConsent, #content.container .gigya-login__form .col .box h2.gdprDescription, #content.container .gigya-login__form .col .box h2.gdrpDescription, #content.container .gigya-login__form .col .box h2.gdprRevokeEmail, #content.container .gigya-login__form .col .box h2.gdprRovokeEmail, #content.container .gigya-login__form .col .box h2.dlgDescription, #content.container .gigya-login__form .col .box h2.gdprConsent, #content.container .gigya-login__form .col .box h2.dgprConsent, #content.container .checkout-login--container .colMain .box h2.gdprDescription, #content.container .checkout-login--container .colMain .box h2.gdrpDescription, #content.container .checkout-login--container .colMain .box h2.gdprRevokeEmail, #content.container .checkout-login--container .colMain .box h2.gdprRovokeEmail, #content.container .checkout-login--container .colMain .box h2.dlgDescription, #content.container .checkout-login--container .colMain .box h2.gdprConsent, #content.container .checkout-login--container .colMain .box h2.dgprConsent, #content.container .checkout-login--container .colAside .box h2.gdprDescription, #content.container .checkout-login--container .colAside .box h2.gdrpDescription, #content.container .checkout-login--container .colAside .box h2.gdprRevokeEmail, #content.container .checkout-login--container .colAside .box h2.gdprRovokeEmail, #content.container .checkout-login--container .colAside .box h2.dlgDescription, #content.container .checkout-login--container .colAside .box h2.gdprConsent, #content.container .checkout-login--container .colAside .box h2.dgprConsent, #content.container .checkout-login--container .col .box h2.gdprDescription, #content.container .checkout-login--container .col .box h2.gdrpDescription, #content.container .checkout-login--container .col .box h2.gdprRevokeEmail, #content.container .checkout-login--container .col .box h2.gdprRovokeEmail, #content.container .checkout-login--container .col .box h2.dlgDescription, #content.container .checkout-login--container .col .box h2.gdprConsent, #content.container .checkout-login--container .col .box h2.dgprConsent, #content.container .register-products--section .colMain .box h2.gdprDescription, #content.container .register-products--section .colMain .box h2.gdrpDescription, #content.container .register-products--section .colMain .box h2.gdprRevokeEmail, #content.container .register-products--section .colMain .box h2.gdprRovokeEmail, #content.container .register-products--section .colMain .box h2.dlgDescription, #content.container .register-products--section .colMain .box h2.gdprConsent, #content.container .register-products--section .colMain .box h2.dgprConsent, #content.container .register-products--section .colAside .box h2.gdprDescription, #content.container .register-products--section .colAside .box h2.gdrpDescription, #content.container .register-products--section .colAside .box h2.gdprRevokeEmail, #content.container .register-products--section .colAside .box h2.gdprRovokeEmail, #content.container .register-products--section .colAside .box h2.dlgDescription, #content.container .register-products--section .colAside .box h2.gdprConsent, #content.container .register-products--section .colAside .box h2.dgprConsent, #content.container .register-products--section .col .box h2.gdprDescription, #content.container .register-products--section .col .box h2.gdrpDescription, #content.container .register-products--section .col .box h2.gdprRevokeEmail, #content.container .register-products--section .col .box h2.gdprRovokeEmail, #content.container .register-products--section .col .box h2.dlgDescription, #content.container .register-products--section .col .box h2.gdprConsent, #content.container .register-products--section .col .box h2.dgprConsent, #overlay.container .gigya-login__form .colMain .box h2.gdprDescription, #overlay.container .gigya-login__form .colMain .box h2.gdrpDescription, #overlay.container .gigya-login__form .colMain .box h2.gdprRevokeEmail, #overlay.container .gigya-login__form .colMain .box h2.gdprRovokeEmail, #overlay.container .gigya-login__form .colMain .box h2.dlgDescription, #overlay.container .gigya-login__form .colMain .box h2.gdprConsent, #overlay.container .gigya-login__form .colMain .box h2.dgprConsent, #overlay.container .gigya-login__form .colAside .box h2.gdprDescription, #overlay.container .gigya-login__form .colAside .box h2.gdrpDescription, #overlay.container .gigya-login__form .colAside .box h2.gdprRevokeEmail, #overlay.container .gigya-login__form .colAside .box h2.gdprRovokeEmail, #overlay.container .gigya-login__form .colAside .box h2.dlgDescription, #overlay.container .gigya-login__form .colAside .box h2.gdprConsent, #overlay.container .gigya-login__form .colAside .box h2.dgprConsent, #overlay.container .gigya-login__form .col .box h2.gdprDescription, #overlay.container .gigya-login__form .col .box h2.gdrpDescription, #overlay.container .gigya-login__form .col .box h2.gdprRevokeEmail, #overlay.container .gigya-login__form .col .box h2.gdprRovokeEmail, #overlay.container .gigya-login__form .col .box h2.dlgDescription, #overlay.container .gigya-login__form .col .box h2.gdprConsent, #overlay.container .gigya-login__form .col .box h2.dgprConsent, #overlay.container .checkout-login--container .colMain .box h2.gdprDescription, #overlay.container .checkout-login--container .colMain .box h2.gdrpDescription, #overlay.container .checkout-login--container .colMain .box h2.gdprRevokeEmail, #overlay.container .checkout-login--container .colMain .box h2.gdprRovokeEmail, #overlay.container .checkout-login--container .colMain .box h2.dlgDescription, #overlay.container .checkout-login--container .colMain .box h2.gdprConsent, #overlay.container .checkout-login--container .colMain .box h2.dgprConsent, #overlay.container .checkout-login--container .colAside .box h2.gdprDescription, #overlay.container .checkout-login--container .colAside .box h2.gdrpDescription, #overlay.container .checkout-login--container .colAside .box h2.gdprRevokeEmail, #overlay.container .checkout-login--container .colAside .box h2.gdprRovokeEmail, #overlay.container .checkout-login--container .colAside .box h2.dlgDescription, #overlay.container .checkout-login--container .colAside .box h2.gdprConsent, #overlay.container .checkout-login--container .colAside .box h2.dgprConsent, #overlay.container .checkout-login--container .col .box h2.gdprDescription, #overlay.container .checkout-login--container .col .box h2.gdrpDescription, #overlay.container .checkout-login--container .col .box h2.gdprRevokeEmail, #overlay.container .checkout-login--container .col .box h2.gdprRovokeEmail, #overlay.container .checkout-login--container .col .box h2.dlgDescription, #overlay.container .checkout-login--container .col .box h2.gdprConsent, #overlay.container .checkout-login--container .col .box h2.dgprConsent, #overlay.container .register-products--section .colMain .box h2.gdprDescription, #overlay.container .register-products--section .colMain .box h2.gdrpDescription, #overlay.container .register-products--section .colMain .box h2.gdprRevokeEmail, #overlay.container .register-products--section .colMain .box h2.gdprRovokeEmail, #overlay.container .register-products--section .colMain .box h2.dlgDescription, #overlay.container .register-products--section .colMain .box h2.gdprConsent, #overlay.container .register-products--section .colMain .box h2.dgprConsent, #overlay.container .register-products--section .colAside .box h2.gdprDescription, #overlay.container .register-products--section .colAside .box h2.gdrpDescription, #overlay.container .register-products--section .colAside .box h2.gdprRevokeEmail, #overlay.container .register-products--section .colAside .box h2.gdprRovokeEmail, #overlay.container .register-products--section .colAside .box h2.dlgDescription, #overlay.container .register-products--section .colAside .box h2.gdprConsent, #overlay.container .register-products--section .colAside .box h2.dgprConsent, #overlay.container .register-products--section .col .box h2.gdprDescription, #overlay.container .register-products--section .col .box h2.gdrpDescription, #overlay.container .register-products--section .col .box h2.gdprRevokeEmail, #overlay.container .register-products--section .col .box h2.gdprRovokeEmail, #overlay.container .register-products--section .col .box h2.dlgDescription, #overlay.container .register-products--section .col .box h2.gdprConsent, #overlay.container .register-products--section .col .box h2.dgprConsent {
+    font-size:12px
+}
+
+#content.container .gigya-login__form .colMain .genericForm .button input, #content.container .gigya-login__form .colAside .genericForm .button input, #content.container .gigya-login__form .col .genericForm .button input, #content.container .checkout-login--container .colMain .genericForm .button input, #content.container .checkout-login--container .colAside .genericForm .button input, #content.container .checkout-login--container .col .genericForm .button input, #content.container .register-products--section .colMain .genericForm .button input, #content.container .register-products--section .colAside .genericForm .button input, #content.container .register-products--section .col .genericForm .button input, #overlay.container .gigya-login__form .colMain .genericForm .button input, #overlay.container .gigya-login__form .colAside .genericForm .button input, #overlay.container .gigya-login__form .col .genericForm .button input, #overlay.container .checkout-login--container .colMain .genericForm .button input, #overlay.container .checkout-login--container .colAside .genericForm .button input, #overlay.container .checkout-login--container .col .genericForm .button input, #overlay.container .register-products--section .colMain .genericForm .button input, #overlay.container .register-products--section .colAside .genericForm .button input, #overlay.container .register-products--section .col .genericForm .button input {
+    font-family: 'notoregular', Arial, Helvetica, Verdana, sans-serif;
+    font-size:12px
+}
+
+#content.container .products-registration__register--account.box p, #content.container .products-registration__register--account.box ul, #content.container .products-registration__register--account.box li, #content.container .products-registration__register--account .box p, #content.container .products-registration__register--account .box ul, #content.container .products-registration__register--account .box li, #content.container .products-registration__register--account p, #content.container .products-registration__register--account ul, #content.container .products-registration__register--account li, #overlay.container .products-registration__register--account.box p, #overlay.container .products-registration__register--account.box ul, #overlay.container .products-registration__register--account.box li, #overlay.container .products-registration__register--account .box p, #overlay.container .products-registration__register--account .box ul, #overlay.container .products-registration__register--account .box li, #overlay.container .products-registration__register--account p, #overlay.container .products-registration__register--account ul, #overlay.container .products-registration__register--account li {
+    font-family: Helvetica, Verdana, sans-serif;
+    color: #333;
+    font-weight: normal;
+    font-size: 12px;
+    line-height:15.6px
+}
+
+@media only screen and (min-width: 1200px) {
+    #content.container .products-registration__register--account.box p, #content.container .products-registration__register--account.box ul, #content.container .products-registration__register--account.box li, #content.container .products-registration__register--account .box p, #content.container .products-registration__register--account .box ul, #content.container .products-registration__register--account .box li, #content.container .products-registration__register--account p, #content.container .products-registration__register--account ul, #content.container .products-registration__register--account li, #overlay.container .products-registration__register--account.box p, #overlay.container .products-registration__register--account.box ul, #overlay.container .products-registration__register--account.box li, #overlay.container .products-registration__register--account .box p, #overlay.container .products-registration__register--account .box ul, #overlay.container .products-registration__register--account .box li, #overlay.container .products-registration__register--account p, #overlay.container .products-registration__register--account ul, #overlay.container .products-registration__register--account li {
+        font-size: 15px;
+        line-height:19.5px
+    }
+}
+
+#content.container .products-registration__register--account.box h2, #content.container .products-registration__register--account .box h2, #content.container .products-registration__register--account h2, #overlay.container .products-registration__register--account.box h2, #overlay.container .products-registration__register--account .box h2, #overlay.container .products-registration__register--account h2 {
+    font-size:21px
+}
+
+#content.container .products-registration__register--account.box h2.gdprDescription, #content.container .products-registration__register--account.box h2.gdrpDescription, #content.container .products-registration__register--account.box h2.gdprRevokeEmail, #content.container .products-registration__register--account.box h2.gdprRovokeEmail, #content.container .products-registration__register--account.box h2.dlgDescription, #content.container .products-registration__register--account.box h2.gdprConsent, #content.container .products-registration__register--account.box h2.dgprConsent, #content.container .products-registration__register--account .box h2.gdprDescription, #content.container .products-registration__register--account .box h2.gdrpDescription, #content.container .products-registration__register--account .box h2.gdprRevokeEmail, #content.container .products-registration__register--account .box h2.gdprRovokeEmail, #content.container .products-registration__register--account .box h2.dlgDescription, #content.container .products-registration__register--account .box h2.gdprConsent, #content.container .products-registration__register--account .box h2.dgprConsent, #content.container .products-registration__register--account h2.gdprDescription, #content.container .products-registration__register--account h2.gdrpDescription, #content.container .products-registration__register--account h2.gdprRevokeEmail, #content.container .products-registration__register--account h2.gdprRovokeEmail, #content.container .products-registration__register--account h2.dlgDescription, #content.container .products-registration__register--account h2.gdprConsent, #content.container .products-registration__register--account h2.dgprConsent, #overlay.container .products-registration__register--account.box h2.gdprDescription, #overlay.container .products-registration__register--account.box h2.gdrpDescription, #overlay.container .products-registration__register--account.box h2.gdprRevokeEmail, #overlay.container .products-registration__register--account.box h2.gdprRovokeEmail, #overlay.container .products-registration__register--account.box h2.dlgDescription, #overlay.container .products-registration__register--account.box h2.gdprConsent, #overlay.container .products-registration__register--account.box h2.dgprConsent, #overlay.container .products-registration__register--account .box h2.gdprDescription, #overlay.container .products-registration__register--account .box h2.gdrpDescription, #overlay.container .products-registration__register--account .box h2.gdprRevokeEmail, #overlay.container .products-registration__register--account .box h2.gdprRovokeEmail, #overlay.container .products-registration__register--account .box h2.dlgDescription, #overlay.container .products-registration__register--account .box h2.gdprConsent, #overlay.container .products-registration__register--account .box h2.dgprConsent, #overlay.container .products-registration__register--account h2.gdprDescription, #overlay.container .products-registration__register--account h2.gdrpDescription, #overlay.container .products-registration__register--account h2.gdprRevokeEmail, #overlay.container .products-registration__register--account h2.gdprRovokeEmail, #overlay.container .products-registration__register--account h2.dlgDescription, #overlay.container .products-registration__register--account h2.gdprConsent, #overlay.container .products-registration__register--account h2.dgprConsent {
+    font-size:12px
+}
+
+#content.container .products-registration__register--account .genericForm .button input, #content.container .products-registration__register--account .genericForm .button .dlgButton, #content.container .products-registration__register--account .button input, #content.container .products-registration__register--account .button .dlgButton, #overlay.container .products-registration__register--account .genericForm .button input, #overlay.container .products-registration__register--account .genericForm .button .dlgButton, #overlay.container .products-registration__register--account .button input, #overlay.container .products-registration__register--account .button .dlgButton {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size:12px
+}
+
+.smallHero h1 {
+    font-size:2.333em
+}
+
+#LoginDiv {
+    width:auto !important
+}
+
+#LoginDiv .gigya-screen.landscape .gigya-layout-row.with-divider > .gigya-layout-cell.with-divider {
+    margin-top: 15px
+}
+
+#LoginDiv #gigya-forgot-password-screen .gigya-layout-row .gigya-composite-control.submit-wrapper input[type="submit"] {
+    font-weight: 900;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 36px !important;
+    background: none !important;
+    padding: 0 35px !important;
+    height: 45px;
+    line-height: 45px;
+    border: none !important;
+    outline: none;
+    text-decoration: none !important;
+    -webkit-appearance: none;
+    outline: none;
+    color: #fff !important;
+    background-color: #58B0E2 !important;
+    width: auto
+}
+
+#LoginDiv #gigya-forgot-password-screen .gigya-layout-row .gigya-composite-control.submit-wrapper input[type="submit"]:hover {
+    background-color: #052644 !important;
+    cursor:pointer
+}
+
+#LoginDiv #gigya-forgot-password-screen .gigya-layout-row .gigya-composite-control.main-text.letter-spacing-s {
+    margin-top:20px
+}
+
+#LoginDiv #gigya-resend-verification-code-form .gigya-composite-control.gigya-spacer {
+    display:none
+}
+
+#LoginDiv #gigya-resend-verification-code-form .gigya-composite-control.dlgLink {
+    text-align: left !important;
+    padding: 0;
+    margin:0
+}
+
+#LoginDiv #gigya-resend-verification-code-form .gigya-composite-control.dlgLink a {
+    display: inline-block;
+    font-size: 12px;
+    font-family: 'notobold';
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.33;
+    letter-spacing: 0.8px;
+    border: none;
+    color: #58B0E2;
+    border-bottom: 1px solid #58B0E2;
+    padding-bottom: 2px;
+    border-radius: 0;
+    height:auto
+}
+
+#LoginDiv #gigya-resend-verification-code-form .gigya-composite-control.dlgLink a:hover, #LoginDiv #gigya-resend-verification-code-form .gigya-composite-control.dlgLink a:active, #LoginDiv #gigya-resend-verification-code-form .gigya-composite-control.dlgLink a:focus {
+    color: #052644;
+    border-bottom-color: #052644;
+    text-decoration:none
+}
+
+#LoginDiv #gigya-resend-verification-code-form .gigya-composite-control.dlgLink a:visited {
+    color: #1d56a2;
+    border-bottom-color:#1d56a2
+}
+
+.gigya-style-modern {
+    width:auto !important
+}
+
+#gigya-link-account-screen .gigya-layout-row .gigya-composite-control.gigya-composite-control-header {
+    text-align:left !important
+}
+
+#gigya-link-account-screen .gigya-layout-row .gigya-composite-control.gigya-composite-control-submit {
+    padding: 0;
+    margin: 0
+}
+
+#gigya-link-account-screen .gigya-layout-row .gigya-composite-control.gigya-composite-control-submit input[type="submit"] {
+    font-weight: 900;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 36px !important;
+    background: none !important;
+    padding: 0 35px !important;
+    height: 45px;
+    line-height: 45px;
+    border: none !important;
+    outline: none;
+    text-decoration: none !important;
+    -webkit-appearance: none;
+    outline: none;
+    color: #fff !important;
+    background-color: #58B0E2 !important;
+    width: auto
+}
+
+#gigya-link-account-screen .gigya-layout-row .gigya-composite-control.gigya-composite-control-submit input[type="submit"]:hover {
+    background-color: #052644 !important;
+    cursor:pointer
+}
+
+#ResetPasswordDiv .gigya-composite-control.gigya-composite-control-password .gigya-input-password {
+    width:100% !important
+}
+
+#ResetPasswordDiv.gigya-style-modern .gigya-screen#gigya-reset-password-success-screen .gigya-layout-row .gigya-composite-control.dlgLink, #ResetPasswordDiv.gigya-style-modern .gigya-screen#gigya-reset-password-successFrench-screen .gigya-layout-row .gigya-composite-control.dlgLink {
+    position: relative;
+    width: auto;
+    display: inline-block;
+    background: none;
+    padding-bottom: 0 !important;
+    padding-left: 0;
+    border-bottom: 0 !important
+}
+
+#ResetPasswordDiv.gigya-style-modern .gigya-screen#gigya-reset-password-success-screen .gigya-layout-row .gigya-composite-control.dlgLink input[type="submit"], #ResetPasswordDiv.gigya-style-modern .gigya-screen#gigya-reset-password-success-screen .gigya-layout-row .gigya-composite-control.dlgLink input[type="button"], #ResetPasswordDiv.gigya-style-modern .gigya-screen#gigya-reset-password-successFrench-screen .gigya-layout-row .gigya-composite-control.dlgLink input[type="submit"], #ResetPasswordDiv.gigya-style-modern .gigya-screen#gigya-reset-password-successFrench-screen .gigya-layout-row .gigya-composite-control.dlgLink input[type="button"] {
+    font-weight: 900;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 36px !important;
+    background: none !important;
+    padding: 0 35px !important;
+    height: 45px;
+    line-height: 45px;
+    border: none !important;
+    outline: none;
+    text-decoration: none !important;
+    -webkit-appearance: none;
+    outline: none;
+    color: #fff !important;
+    background-color: #58B0E2 !important;
+    width: auto
+}
+
+#ResetPasswordDiv.gigya-style-modern .gigya-screen#gigya-reset-password-success-screen .gigya-layout-row .gigya-composite-control.dlgLink input[type="submit"]:hover, #ResetPasswordDiv.gigya-style-modern .gigya-screen#gigya-reset-password-success-screen .gigya-layout-row .gigya-composite-control.dlgLink input[type="button"]:hover, #ResetPasswordDiv.gigya-style-modern .gigya-screen#gigya-reset-password-successFrench-screen .gigya-layout-row .gigya-composite-control.dlgLink input[type="submit"]:hover, #ResetPasswordDiv.gigya-style-modern .gigya-screen#gigya-reset-password-successFrench-screen .gigya-layout-row .gigya-composite-control.dlgLink input[type="button"]:hover {
+    background-color: #052644 !important;
+    cursor:pointer
+}
+
+#ResetPasswordDiv.gigya-style-modern .gigya-screen#gigya-reset-password-success-screen .gigya-layout-row .gigya-composite-control.main-text.dlgLabel, #ResetPasswordDiv.gigya-style-modern .gigya-screen#gigya-reset-password-successFrench-screen .gigya-layout-row .gigya-composite-control.main-text.dlgLabel {
+    font-size: 12px;
+    color:#333
+}
+
+#ResetPasswordDiv.gigya-style-modern .gigya-screen h2 {
+    font-family: 'notoregular', 'FuturaNewBook', Arial, Helvetica, Verdana, sans-serif;
+    color: #333;
+    font-size: 21px;
+    line-height: 29.4px;
+    color:#333
+}
+
+#ResetPasswordDiv.gigya-style-modern .gigya-screen h2.gigya-composite-control.dlgHeader {
+    font-family: 'notoregular', 'FuturaNewBook', Arial, Helvetica, Verdana, sans-serif;
+    color: #333;
+    font-size: 21px;
+    line-height: 29.4px;
+    color:#333
+}
+
+#ResetPasswordDiv.gigya-style-modern .gigya-screen h2.gigya-composite-control.dlgHeader + .gigya-spacer {
+    display:none
+}
+
+#RegisterDiv, #ResetPasswordDiv {
+    margin-bottom: 18px;
+    width:auto !important
+}
+
+#RegisterDiv.gigya-style-modern, #ResetPasswordDiv.gigya-style-modern {
+    background: #F2F2F2;
+    padding: 15.6px;
+    border: 1px solid #DBDBDB;
+    border-radius:3px
+}
+
+#RegisterDiv.gigya-style-modern .gigya-screen.landscape, #RegisterDiv.gigya-style-modern .gigya-screen.portrait, #ResetPasswordDiv.gigya-style-modern .gigya-screen.landscape, #ResetPasswordDiv.gigya-style-modern .gigya-screen.portrait {
+    max-width: 100% !important;
+    margin:0
+}
+
+@media screen and (min-width: 480px) {
+    #RegisterDiv.gigya-style-modern .gigya-screen.landscape .gigya-composite-control, #RegisterDiv.gigya-style-modern .gigya-screen.portrait .gigya-composite-control, #ResetPasswordDiv.gigya-style-modern .gigya-screen.landscape .gigya-composite-control, #ResetPasswordDiv.gigya-style-modern .gigya-screen.portrait .gigya-composite-control {
+        max-width:410px
+    }
+}
+
+#RegisterDiv.gigya-style-modern .gigya-screen.landscape .gigya-container-enabled .gigya-composite-control, #RegisterDiv.gigya-style-modern .gigya-screen.portrait .gigya-container-enabled .gigya-composite-control, #ResetPasswordDiv.gigya-style-modern .gigya-screen.landscape .gigya-container-enabled .gigya-composite-control, #ResetPasswordDiv.gigya-style-modern .gigya-screen.portrait .gigya-container-enabled .gigya-composite-control {
+    max-width:100%
+}
+
+@media screen and (min-width: 480px) {
+    #RegisterDiv.gigya-style-modern .gigya-screen.landscape .gigya-container-enabled .gigya-composite-control.dlgEmailConfirm, #RegisterDiv.gigya-style-modern .gigya-screen.landscape .gigya-container-enabled .gigya-composite-control.dlgTextbox, #RegisterDiv.gigya-style-modern .gigya-screen.landscape .gigya-container-enabled .gigya-composite-control.dlgDropdown, #RegisterDiv.gigya-style-modern .gigya-screen.landscape .gigya-container-enabled .gigya-composite-control.dlgEmailConfirm, #RegisterDiv.gigya-style-modern .gigya-screen.landscape .gigya-container-enabled .gigya-composite-control.dlgEmail, #RegisterDiv.gigya-style-modern .gigya-screen.landscape .gigya-container-enabled .gigya-composite-control.dlgTextbox, #RegisterDiv.gigya-style-modern .gigya-screen.portrait .gigya-container-enabled .gigya-composite-control.dlgEmailConfirm, #RegisterDiv.gigya-style-modern .gigya-screen.portrait .gigya-container-enabled .gigya-composite-control.dlgTextbox, #RegisterDiv.gigya-style-modern .gigya-screen.portrait .gigya-container-enabled .gigya-composite-control.dlgDropdown, #RegisterDiv.gigya-style-modern .gigya-screen.portrait .gigya-container-enabled .gigya-composite-control.dlgEmailConfirm, #RegisterDiv.gigya-style-modern .gigya-screen.portrait .gigya-container-enabled .gigya-composite-control.dlgEmail, #RegisterDiv.gigya-style-modern .gigya-screen.portrait .gigya-container-enabled .gigya-composite-control.dlgTextbox, #ResetPasswordDiv.gigya-style-modern .gigya-screen.landscape .gigya-container-enabled .gigya-composite-control.dlgEmailConfirm, #ResetPasswordDiv.gigya-style-modern .gigya-screen.landscape .gigya-container-enabled .gigya-composite-control.dlgTextbox, #ResetPasswordDiv.gigya-style-modern .gigya-screen.landscape .gigya-container-enabled .gigya-composite-control.dlgDropdown, #ResetPasswordDiv.gigya-style-modern .gigya-screen.landscape .gigya-container-enabled .gigya-composite-control.dlgEmailConfirm, #ResetPasswordDiv.gigya-style-modern .gigya-screen.landscape .gigya-container-enabled .gigya-composite-control.dlgEmail, #ResetPasswordDiv.gigya-style-modern .gigya-screen.landscape .gigya-container-enabled .gigya-composite-control.dlgTextbox, #ResetPasswordDiv.gigya-style-modern .gigya-screen.portrait .gigya-container-enabled .gigya-composite-control.dlgEmailConfirm, #ResetPasswordDiv.gigya-style-modern .gigya-screen.portrait .gigya-container-enabled .gigya-composite-control.dlgTextbox, #ResetPasswordDiv.gigya-style-modern .gigya-screen.portrait .gigya-container-enabled .gigya-composite-control.dlgDropdown, #ResetPasswordDiv.gigya-style-modern .gigya-screen.portrait .gigya-container-enabled .gigya-composite-control.dlgEmailConfirm, #ResetPasswordDiv.gigya-style-modern .gigya-screen.portrait .gigya-container-enabled .gigya-composite-control.dlgEmail, #ResetPasswordDiv.gigya-style-modern .gigya-screen.portrait .gigya-container-enabled .gigya-composite-control.dlgTextbox {
+        max-width:410px
+    }
+}
+
+#RegisterDiv.gigya-style-modern .gigya-screen.landscape .gigya-input-password, #RegisterDiv.gigya-style-modern .gigya-screen.landscape .gigya-input-text, #RegisterDiv.gigya-style-modern .gigya-screen.landscape.portrait div.gigya-tfa .gig-tfa-container .gig-tfa-code-textbox, #RegisterDiv.gigya-style-modern .gigya-screen.landscape select, #RegisterDiv.gigya-style-modern .gigya-screen.portrait .gigya-input-password, #RegisterDiv.gigya-style-modern .gigya-screen.portrait .gigya-input-text, #RegisterDiv.gigya-style-modern .gigya-screen.portrait.portrait div.gigya-tfa .gig-tfa-container .gig-tfa-code-textbox, #RegisterDiv.gigya-style-modern .gigya-screen.portrait select, #ResetPasswordDiv.gigya-style-modern .gigya-screen.landscape .gigya-input-password, #ResetPasswordDiv.gigya-style-modern .gigya-screen.landscape .gigya-input-text, #ResetPasswordDiv.gigya-style-modern .gigya-screen.landscape.portrait div.gigya-tfa .gig-tfa-container .gig-tfa-code-textbox, #ResetPasswordDiv.gigya-style-modern .gigya-screen.landscape select, #ResetPasswordDiv.gigya-style-modern .gigya-screen.portrait .gigya-input-password, #ResetPasswordDiv.gigya-style-modern .gigya-screen.portrait .gigya-input-text, #ResetPasswordDiv.gigya-style-modern .gigya-screen.portrait.portrait div.gigya-tfa .gig-tfa-container .gig-tfa-code-textbox, #ResetPasswordDiv.gigya-style-modern .gigya-screen.portrait select {
+    height: 30px;
+    line-height:30px
+}
+
+#RegisterDiv.gigya-style-modern .gigya-screen.landscape .dlgDropdown select, #RegisterDiv.gigya-style-modern .gigya-screen.portrait .dlgDropdown select, #ResetPasswordDiv.gigya-style-modern .gigya-screen.landscape .dlgDropdown select, #ResetPasswordDiv.gigya-style-modern .gigya-screen.portrait .dlgDropdown select {
+    width:100% !important
+}
+
+@media screen and (min-width: 480px) {
+    #RegisterDiv.gigya-style-modern .gigya-screen.landscape .dlgDropdown select, #RegisterDiv.gigya-style-modern .gigya-screen.portrait .dlgDropdown select, #ResetPasswordDiv.gigya-style-modern .gigya-screen.landscape .dlgDropdown select, #ResetPasswordDiv.gigya-style-modern .gigya-screen.portrait .dlgDropdown select {
+        width:200px !important
+    }
+}
+
+#RegisterDiv.gigya-style-modern .gigya-screen.landscape .dlgButton.submissionButton, #RegisterDiv.gigya-style-modern .gigya-screen.portrait .dlgButton.submissionButton, #ResetPasswordDiv.gigya-style-modern .gigya-screen.landscape .dlgButton.submissionButton, #ResetPasswordDiv.gigya-style-modern .gigya-screen.portrait .dlgButton.submissionButton {
+    padding: 0;
+    margin-top:14px
+}
+
+#RegisterDiv #gigya-verification-sent-screen .dlgDescription, #ResetPasswordDiv #gigya-verification-sent-screen .dlgDescription {
+    margin-bottom: 0;
+    padding-bottom:0
+}
+
+#RegisterDiv #gigya-verification-sent-screen .dlgLink, #ResetPasswordDiv #gigya-verification-sent-screen .dlgLink {
+    margin-left: 15px;
+    margin-bottom:-3px
+}
+
+#RegisterDiv #gigya-verification-sent-screen .dlgLink a, #ResetPasswordDiv #gigya-verification-sent-screen .dlgLink a {
+    font-family: 'notoregular', Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    text-decoration:underline
+}
+
+#RegisterDiv #gigya-verification-sent-screen .dlgLink a:hover, #ResetPasswordDiv #gigya-verification-sent-screen .dlgLink a:hover {
+    text-decoration:none
+}
+
+#RegisterDiv #gigya-verification-sent-screen .dlgButton, #RegisterDiv #gigya-verification-sent-screen .dlgLink, #ResetPasswordDiv #gigya-verification-sent-screen .dlgButton, #ResetPasswordDiv #gigya-verification-sent-screen .dlgLink {
+    display: inline-block;
+    vertical-align:middle
+}
+
+#RegisterDiv #gigya-verification-sent-screen .gigya-composite-control.dlgButton, #ResetPasswordDiv #gigya-verification-sent-screen .gigya-composite-control.dlgButton {
+    padding: 0;
+    text-align:left !important
+}
+
+#RegisterDiv #gigya-verification-sent-screen a.gigya-composite-control.dlgButton:hover, #ResetPasswordDiv #gigya-verification-sent-screen a.gigya-composite-control.dlgButton:hover {
+    border-bottom:0 !important
+}
+
+#forgotPasswordDiv.gigya-style-modern .gigya-screen .gigya-composite-control.gigya-spacer {
+    display:none
+}
+
+#forgotPasswordDiv.gigya-style-modern .gigya-screen .gigya-composite-control.gigya-composite-control-textbox .gigya-input-text {
+    width:100%
+}
+
+@media screen and (min-width: 480px) {
+    #forgotPasswordDiv.gigya-style-modern .gigya-screen .gigya-composite-control.gigya-composite-control-textbox .gigya-input-text {
+        width:91%
+    }
+}
+
+#forgotPasswordDiv #gigya-forgot-password-success-screen {
+    padding:15px 0
+}
+
+@media screen and (min-width: 480px) {
+    #forgotPasswordDiv #gigya-forgot-password-success-screen {
+        padding:35px 0
+    }
+}
+
+#forgotPasswordDiv #gigya-forgot-password-success-screen .gigya-composite-control.gigya-button-link {
+    padding-left: 0;
+    border-bottom:0 !important
+}
+
+#gigya-update-profile-screen gigya-layout-row > .gigya-layout-cell .gigya-composite-control.dlgUpdate {
+    margin-top:20px
+}
+
+#gigya-update-profile-screen gigya-layout-row > .gigya-layout-cell .gigya-composite-control.dlgCancel {
+    margin-top:20
+}
+
+#accountUpdateDiv #gigya-profile-form .gigya-layout-row > .gigya-layout-cell {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 25px;
+    width: auto;
+    float:none
+}
+
+#accountUpdateDiv #gigya-profile-form .gigya-layout-row > .gigya-layout-cell .dlgCancel {
+    margin-bottom: 0;
+    margin-top:10px
+}
+
+#accountUpdateDiv #gigya-profile-form .gigya-layout-row > .gigya-layout-cell .dlgButton {
+    margin-bottom:0
+}
+
+#accountUpdateDiv #gigya-profile-form .gigya-layout-row .dlgCheckbox {
+    margin-top:5px
+}
+
+#accountUpdateDiv #gigya-profile-form .gigya-layout-row .gigya-label {
+    color: #333;
+    font-size:12px
+}
+
+#accountUpdateDiv #gigya-profile-form .gigya-layout-row .gigya-label .gigya-checkbox-text {
+    font-weight: 700;
+    font-family: 'notobold' !important;
+    color: #333;
+    font-size:12px
+}
+
+.register-products--section #loginDiv .gigya-screen.landscape .gigya-layout-row.with-divider, .register-products--section #LoginDiv .gigya-screen.landscape .gigya-layout-row.with-divider {
+    display:block
+}
+
+.register-products--section #loginDiv .gigya-screen.landscape .gigya-layout-row.with-divider .gigya-layout-cell, .register-products--section #LoginDiv .gigya-screen.landscape .gigya-layout-row.with-divider .gigya-layout-cell {
+    width: 100%;
+    max-width: 100%;
+    float:none
+}
+
+.register-products--section #loginDiv .gigya-screen.landscape .gigya-layout-row.with-divider .gigya-layout-cell.with-divider, .register-products--section #LoginDiv .gigya-screen.landscape .gigya-layout-row.with-divider .gigya-layout-cell.with-divider {
+    margin-top:30px
+}
+
+.register-products--section #loginDiv .gigya-screen.landscape .gigya-layout-row.with-divider .gigya-layout-cell.with-social-login, .register-products--section #LoginDiv .gigya-screen.landscape .gigya-layout-row.with-divider .gigya-layout-cell.with-social-login {
+    width: 100%;
+    max-width: 100%;
+    float:none
+}
+
+.checkout-login--container.js-synchHeights.align-footer .box-footer {
+    position:static
+}
+
+.checkout-login--container #LoginDiv .gigya-screen.landscape, .checkout-login--container #LoginDiv .gigya-screen.portrait {
+    padding:0
+}
+
+.checkout-login--container #LoginDiv .gigya-screen.landscape .gigya-composite-control.gigya-composite-control-social-login, .checkout-login--container #LoginDiv .gigya-screen.portrait .gigya-composite-control.gigya-composite-control-social-login {
+    width:100%
+}
+
+.checkout-login--container #LoginDiv .gigya-screen.landscape .gigya-layout-row > h2.gigya-composite-control.gdprDescription, .checkout-login--container #LoginDiv .gigya-screen.portrait .gigya-layout-row > h2.gigya-composite-control.gdprDescription {
+    font-size: 12px;
+    line-height:16px
+}
+
+.checkout-login--container #LoginDiv .gigya-screen.landscape .gigya-layout-row.with-divider, .checkout-login--container #LoginDiv .gigya-screen.portrait .gigya-layout-row.with-divider {
+    display:block
+}
+
+.checkout-login--container #LoginDiv .gigya-screen.landscape .gigya-layout-row.with-divider > .gigya-layout-cell, .checkout-login--container #LoginDiv .gigya-screen.portrait .gigya-layout-row.with-divider > .gigya-layout-cell {
+    display: block;
+    width: 100%;
+    max-width:none
+}
+
+.checkout-login--container #LoginDiv .gigya-screen.landscape .gigya-layout-row.with-divider > .gigya-layout-cell.responsive.with-divider, .checkout-login--container #LoginDiv .gigya-screen.portrait .gigya-layout-row.with-divider > .gigya-layout-cell.responsive.with-divider {
+    display:none
+}
+
+.checkout-login--container #LoginDiv .gigya-screen.landscape .gigya-layout-row .gigya-composite-control.gigya-composite-control-header, .checkout-login--container #LoginDiv .gigya-screen.portrait .gigya-layout-row .gigya-composite-control.gigya-composite-control-header {
+    font-family: 'notoregular', Helvetica, Arial, sans-serif;
+    color: #333;
+    font-size: 21px;
+    line-height: 29.4px;
+    color:#333
+}
+
+.overlay-wrapper {
+    height: 100px;
+    margin-top:-115px !important
+}
+
+.overlay-wrapper#overlay > .inner {
+    padding: 0;
+    max-width:100% !important
+}
+
+@media only screen and (min-width: 992px) {
+    .overlay-wrapper#overlay > .inner {
+        max-width:45% !important
+    }
+}
+
+.overlay-wrapper > .inner a.close {
+    height:25px
+}
+
+.overlay-wrapper .contentWrap {
+    width:auto !important
+}
+
+.overlay-wrapper .contentWrap .modal {
+    margin-top: 0 !important;
+    background: #f2f2f2;
+    padding:15px
+}
+
+.overlay-wrapper .contentWrap .modal#gigyaCompleteRegistrationDiv {
+    width:100% !important
+}
+
+@media only screen and (min-width: 992px) {
+    .overlay-wrapper .contentWrap .modal#gigyaCompleteRegistrationDiv {
+        width:auto !important
+    }
+}
+
+.overlay-wrapper .contentWrap .modal .box.style2 {
+    padding-left: 0;
+    padding-right: 0;
+    background:#f2f2f2 !important
+}
+
+.overlay-wrapper .contentWrap .modal .button-group {
+    text-align:center
+}
+
+#modalLoading {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: none;
+    background: rgba(0, 0, 0, 0.5);
+    z-index:999999
+}
+
+#modalLoading .loading-wrapper {
+    position: relative;
+    width: 100%;
+    height:100%
+}
+
+#modalLoading .loading-wrapper .loading {
+    width: 60px;
+    height: 60px;
+    -webkit-mask: url("../images/assets/loading.svg") no-repeat 100% 100%;
+    mask: url(star.svg) no-repeat 100% 100%;
+    -webkit-mask-size: cover;
+    mask-size: cover;
+    background-color: #fff;
+    position: absolute;
+    background-size: contain;
+    left: 50%;
+    top: 50%;
+    margin-left: -30px;
+    margin-top:-30px
+}
+
+.gigya-screen .gigya-error-msg-active.gigya-form-error-msg, .gigya-screen .gigya-error-msg.gigya-error-msg-active {
+    text-align: left;
+    color: #FF0000;
+    font-size: 11.04px;
+    padding: 0;
+    font-family: 'notoregular', Arial, Helvetica, Verdana, sans-serif
+}
+
+.gigya-thankyou--message {
+    margin-bottom:20px
+}
+
+.redirect-after--registration {
+    padding-left:0
+}
+
+.redirect-after--registration li {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right:10px
+}
+
+.redirect-after--registration li.redirect-register--product {
+    font-size: 11px;
+    overflow: hidden;
+    padding-left: 10px;
+    background: url(../images/assets/sprite_icons.png) no-repeat 0 -2051px;
+    color: #cc092f;
+    font-weight: 700;
+    font-family: 'notobold' !important;
+    margin-bottom:0
+}
+
+.redirect-after--registration li p.button {
+    margin-bottom:0
+}
+
+.contentWrap #gigyaCompleteRegistrationDiv {
+    padding:0px
+}
+
+.contentWrap #gigyaCompleteRegistrationDiv #gigyaCompleteRegistrationDiv_content {
+    padding:15px
+}
+
+#LoginDiv.hide-social__login .gigya-composite-control-social-login, #LoginDiv.hide-social__login .gigya-spacer, #RegisterDiv.hide-social__login .gigya-composite-control-social-login, #RegisterDiv.hide-social__login .gigya-spacer {
+    display:none
+}
+
+#LoginDiv.hide-social__login .with-social-login .gigya-composite-control-label, #RegisterDiv.hide-social__login .with-social-login .gigya-composite-control-label {
+    margin-bottom: 0;
+    padding-bottom:0
+}
+
+#LoginDiv.hide-social__login .with-site-login .gigya-composite-control-label, #RegisterDiv.hide-social__login .with-site-login .gigya-composite-control-label {
+    display:none
+}
+
+#LoginDiv.hide-social__login .gigya-composite-control-label.with-login__form--label, #RegisterDiv.hide-social__login .gigya-composite-control-label.with-login__form--label {
+    display:none
+}
+
+#RegisterDiv .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.hide-show, #RegisterDiv .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.hide-show, #gigyaCompleteRegistrationDiv .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.hide-show, #MarketingPreferencesDiv .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.hide-show, #LoginDiv .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.hide-show, #newsletter-container-div .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.hide-show, #newsletter-container-div-inject-gigya-form .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.hide-show, #liteRegistrationDiv .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.hide-show {
+    display:none
+}
+
+#RegisterDiv .gigya-custom-checkbox, #RegisterDiv .gigya-custom-checkbox, #gigyaCompleteRegistrationDiv .gigya-custom-checkbox, #MarketingPreferencesDiv .gigya-custom-checkbox, #LoginDiv .gigya-custom-checkbox, #newsletter-container-div .gigya-custom-checkbox, #newsletter-container-div-inject-gigya-form .gigya-custom-checkbox, #liteRegistrationDiv .gigya-custom-checkbox {
+    max-width:none !important
+}
+
+#RegisterDiv .gigya-custom-checkbox .gigya-checkbox-text .question-mark, #RegisterDiv .gigya-custom-checkbox .gigya-checkbox-text .question-mark, #gigyaCompleteRegistrationDiv .gigya-custom-checkbox .gigya-checkbox-text .question-mark, #MarketingPreferencesDiv .gigya-custom-checkbox .gigya-checkbox-text .question-mark, #LoginDiv .gigya-custom-checkbox .gigya-checkbox-text .question-mark, #newsletter-container-div .gigya-custom-checkbox .gigya-checkbox-text .question-mark, #newsletter-container-div-inject-gigya-form .gigya-custom-checkbox .gigya-checkbox-text .question-mark, #liteRegistrationDiv .gigya-custom-checkbox .gigya-checkbox-text .question-mark {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    border: 1px solid #052644;
+    cursor: pointer;
+    color: #052644;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 14px;
+    font-size: 10px;
+    margin: auto;
+    vertical-align: top;
+    box-sizing: border-box;
+    margin-left:2px
+}
+
+#RegisterDiv .gigya-custom-checkbox .gigya-error-msg, #RegisterDiv .gigya-custom-checkbox .gigya-error-msg, #gigyaCompleteRegistrationDiv .gigya-custom-checkbox .gigya-error-msg, #MarketingPreferencesDiv .gigya-custom-checkbox .gigya-error-msg, #LoginDiv .gigya-custom-checkbox .gigya-error-msg, #newsletter-container-div .gigya-custom-checkbox .gigya-error-msg, #newsletter-container-div-inject-gigya-form .gigya-custom-checkbox .gigya-error-msg, #liteRegistrationDiv .gigya-custom-checkbox .gigya-error-msg {
+    color: #FF0000;
+    font-size:11.04px !important
+}
+
+#RegisterDiv .gigya-custom-checkbox .gigya-error-msg.gigya-error-msg-active, #RegisterDiv .gigya-custom-checkbox .gigya-error-msg.gigya-error-msg-active, #gigyaCompleteRegistrationDiv .gigya-custom-checkbox .gigya-error-msg.gigya-error-msg-active, #MarketingPreferencesDiv .gigya-custom-checkbox .gigya-error-msg.gigya-error-msg-active, #LoginDiv .gigya-custom-checkbox .gigya-error-msg.gigya-error-msg-active, #newsletter-container-div .gigya-custom-checkbox .gigya-error-msg.gigya-error-msg-active, #newsletter-container-div-inject-gigya-form .gigya-custom-checkbox .gigya-error-msg.gigya-error-msg-active, #liteRegistrationDiv .gigya-custom-checkbox .gigya-error-msg.gigya-error-msg-active {
+    margin-top:10px
+}
+
+#RegisterDiv .gigya-custom-checkbox, #RegisterDiv .gigya-braun-checkbox, #RegisterDiv .gigya-delonghi-checkbox, #RegisterDiv .gigya-kenwood-checkbox, #RegisterDiv .gigya-custom-checkbox, #RegisterDiv .gigya-braun-checkbox, #RegisterDiv .gigya-delonghi-checkbox, #RegisterDiv .gigya-kenwood-checkbox, #gigyaCompleteRegistrationDiv .gigya-custom-checkbox, #gigyaCompleteRegistrationDiv .gigya-braun-checkbox, #gigyaCompleteRegistrationDiv .gigya-delonghi-checkbox, #gigyaCompleteRegistrationDiv .gigya-kenwood-checkbox, #MarketingPreferencesDiv .gigya-custom-checkbox, #MarketingPreferencesDiv .gigya-braun-checkbox, #MarketingPreferencesDiv .gigya-delonghi-checkbox, #MarketingPreferencesDiv .gigya-kenwood-checkbox, #LoginDiv .gigya-custom-checkbox, #LoginDiv .gigya-braun-checkbox, #LoginDiv .gigya-delonghi-checkbox, #LoginDiv .gigya-kenwood-checkbox, #newsletter-container-div .gigya-custom-checkbox, #newsletter-container-div .gigya-braun-checkbox, #newsletter-container-div .gigya-delonghi-checkbox, #newsletter-container-div .gigya-kenwood-checkbox, #newsletter-container-div-inject-gigya-form .gigya-custom-checkbox, #newsletter-container-div-inject-gigya-form .gigya-braun-checkbox, #newsletter-container-div-inject-gigya-form .gigya-delonghi-checkbox, #newsletter-container-div-inject-gigya-form .gigya-kenwood-checkbox, #liteRegistrationDiv .gigya-custom-checkbox, #liteRegistrationDiv .gigya-braun-checkbox, #liteRegistrationDiv .gigya-delonghi-checkbox, #liteRegistrationDiv .gigya-kenwood-checkbox {
+    display: inline-block !important;
+    vertical-align: top;
+    padding: 0;
+    margin:0
+}
+
+#RegisterDiv .gigya-custom-checkbox .gigya-input-checkbox, #RegisterDiv .gigya-braun-checkbox .gigya-input-checkbox, #RegisterDiv .gigya-delonghi-checkbox .gigya-input-checkbox, #RegisterDiv .gigya-kenwood-checkbox .gigya-input-checkbox, #RegisterDiv .gigya-custom-checkbox .gigya-input-checkbox, #RegisterDiv .gigya-braun-checkbox .gigya-input-checkbox, #RegisterDiv .gigya-delonghi-checkbox .gigya-input-checkbox, #RegisterDiv .gigya-kenwood-checkbox .gigya-input-checkbox, #gigyaCompleteRegistrationDiv .gigya-custom-checkbox .gigya-input-checkbox, #gigyaCompleteRegistrationDiv .gigya-braun-checkbox .gigya-input-checkbox, #gigyaCompleteRegistrationDiv .gigya-delonghi-checkbox .gigya-input-checkbox, #gigyaCompleteRegistrationDiv .gigya-kenwood-checkbox .gigya-input-checkbox, #MarketingPreferencesDiv .gigya-custom-checkbox .gigya-input-checkbox, #MarketingPreferencesDiv .gigya-braun-checkbox .gigya-input-checkbox, #MarketingPreferencesDiv .gigya-delonghi-checkbox .gigya-input-checkbox, #MarketingPreferencesDiv .gigya-kenwood-checkbox .gigya-input-checkbox, #LoginDiv .gigya-custom-checkbox .gigya-input-checkbox, #LoginDiv .gigya-braun-checkbox .gigya-input-checkbox, #LoginDiv .gigya-delonghi-checkbox .gigya-input-checkbox, #LoginDiv .gigya-kenwood-checkbox .gigya-input-checkbox, #newsletter-container-div .gigya-custom-checkbox .gigya-input-checkbox, #newsletter-container-div .gigya-braun-checkbox .gigya-input-checkbox, #newsletter-container-div .gigya-delonghi-checkbox .gigya-input-checkbox, #newsletter-container-div .gigya-kenwood-checkbox .gigya-input-checkbox, #newsletter-container-div-inject-gigya-form .gigya-custom-checkbox .gigya-input-checkbox, #newsletter-container-div-inject-gigya-form .gigya-braun-checkbox .gigya-input-checkbox, #newsletter-container-div-inject-gigya-form .gigya-delonghi-checkbox .gigya-input-checkbox, #newsletter-container-div-inject-gigya-form .gigya-kenwood-checkbox .gigya-input-checkbox, #liteRegistrationDiv .gigya-custom-checkbox .gigya-input-checkbox, #liteRegistrationDiv .gigya-braun-checkbox .gigya-input-checkbox, #liteRegistrationDiv .gigya-delonghi-checkbox .gigya-input-checkbox, #liteRegistrationDiv .gigya-kenwood-checkbox .gigya-input-checkbox {
+    position: absolute;
+    opacity:0
+}
+
+#RegisterDiv .gigya-custom-checkbox .gigya-input-checkbox + label, #RegisterDiv .gigya-braun-checkbox .gigya-input-checkbox + label, #RegisterDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label, #RegisterDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label, #RegisterDiv .gigya-custom-checkbox .gigya-input-checkbox + label, #RegisterDiv .gigya-braun-checkbox .gigya-input-checkbox + label, #RegisterDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label, #RegisterDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label, #gigyaCompleteRegistrationDiv .gigya-custom-checkbox .gigya-input-checkbox + label, #gigyaCompleteRegistrationDiv .gigya-braun-checkbox .gigya-input-checkbox + label, #gigyaCompleteRegistrationDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label, #gigyaCompleteRegistrationDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label, #MarketingPreferencesDiv .gigya-custom-checkbox .gigya-input-checkbox + label, #MarketingPreferencesDiv .gigya-braun-checkbox .gigya-input-checkbox + label, #MarketingPreferencesDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label, #MarketingPreferencesDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label, #LoginDiv .gigya-custom-checkbox .gigya-input-checkbox + label, #LoginDiv .gigya-braun-checkbox .gigya-input-checkbox + label, #LoginDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label, #LoginDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label, #newsletter-container-div .gigya-custom-checkbox .gigya-input-checkbox + label, #newsletter-container-div .gigya-braun-checkbox .gigya-input-checkbox + label, #newsletter-container-div .gigya-delonghi-checkbox .gigya-input-checkbox + label, #newsletter-container-div .gigya-kenwood-checkbox .gigya-input-checkbox + label, #newsletter-container-div-inject-gigya-form .gigya-custom-checkbox .gigya-input-checkbox + label, #newsletter-container-div-inject-gigya-form .gigya-braun-checkbox .gigya-input-checkbox + label, #newsletter-container-div-inject-gigya-form .gigya-delonghi-checkbox .gigya-input-checkbox + label, #newsletter-container-div-inject-gigya-form .gigya-kenwood-checkbox .gigya-input-checkbox + label, #liteRegistrationDiv .gigya-custom-checkbox .gigya-input-checkbox + label, #liteRegistrationDiv .gigya-braun-checkbox .gigya-input-checkbox + label, #liteRegistrationDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label, #liteRegistrationDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label {
+    position: relative;
+    cursor: pointer;
+    margin: 0;
+    padding: 0 0 0 30px;
+    box-sizing:border-box
+}
+
+#RegisterDiv .gigya-custom-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #RegisterDiv .gigya-braun-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #RegisterDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #RegisterDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #RegisterDiv .gigya-custom-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #RegisterDiv .gigya-braun-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #RegisterDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #RegisterDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #gigyaCompleteRegistrationDiv .gigya-custom-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #gigyaCompleteRegistrationDiv .gigya-braun-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #gigyaCompleteRegistrationDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #gigyaCompleteRegistrationDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #MarketingPreferencesDiv .gigya-custom-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #MarketingPreferencesDiv .gigya-braun-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #MarketingPreferencesDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #MarketingPreferencesDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #LoginDiv .gigya-custom-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #LoginDiv .gigya-braun-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #LoginDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #LoginDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #newsletter-container-div .gigya-custom-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #newsletter-container-div .gigya-braun-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #newsletter-container-div .gigya-delonghi-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #newsletter-container-div .gigya-kenwood-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #newsletter-container-div-inject-gigya-form .gigya-custom-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #newsletter-container-div-inject-gigya-form .gigya-braun-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #newsletter-container-div-inject-gigya-form .gigya-delonghi-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #newsletter-container-div-inject-gigya-form .gigya-kenwood-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #liteRegistrationDiv .gigya-custom-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #liteRegistrationDiv .gigya-braun-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #liteRegistrationDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #liteRegistrationDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label .gigya-checkbox-text {
+    display: block;
+    vertical-align: top;
+    font-size:12px
+}
+
+#RegisterDiv .gigya-custom-checkbox .gigya-input-checkbox + label:before, #RegisterDiv .gigya-braun-checkbox .gigya-input-checkbox + label:before, #RegisterDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label:before, #RegisterDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label:before, #RegisterDiv .gigya-custom-checkbox .gigya-input-checkbox + label:before, #RegisterDiv .gigya-braun-checkbox .gigya-input-checkbox + label:before, #RegisterDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label:before, #RegisterDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label:before, #gigyaCompleteRegistrationDiv .gigya-custom-checkbox .gigya-input-checkbox + label:before, #gigyaCompleteRegistrationDiv .gigya-braun-checkbox .gigya-input-checkbox + label:before, #gigyaCompleteRegistrationDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label:before, #gigyaCompleteRegistrationDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label:before, #MarketingPreferencesDiv .gigya-custom-checkbox .gigya-input-checkbox + label:before, #MarketingPreferencesDiv .gigya-braun-checkbox .gigya-input-checkbox + label:before, #MarketingPreferencesDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label:before, #MarketingPreferencesDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label:before, #LoginDiv .gigya-custom-checkbox .gigya-input-checkbox + label:before, #LoginDiv .gigya-braun-checkbox .gigya-input-checkbox + label:before, #LoginDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label:before, #LoginDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label:before, #newsletter-container-div .gigya-custom-checkbox .gigya-input-checkbox + label:before, #newsletter-container-div .gigya-braun-checkbox .gigya-input-checkbox + label:before, #newsletter-container-div .gigya-delonghi-checkbox .gigya-input-checkbox + label:before, #newsletter-container-div .gigya-kenwood-checkbox .gigya-input-checkbox + label:before, #newsletter-container-div-inject-gigya-form .gigya-custom-checkbox .gigya-input-checkbox + label:before, #newsletter-container-div-inject-gigya-form .gigya-braun-checkbox .gigya-input-checkbox + label:before, #newsletter-container-div-inject-gigya-form .gigya-delonghi-checkbox .gigya-input-checkbox + label:before, #newsletter-container-div-inject-gigya-form .gigya-kenwood-checkbox .gigya-input-checkbox + label:before, #liteRegistrationDiv .gigya-custom-checkbox .gigya-input-checkbox + label:before, #liteRegistrationDiv .gigya-braun-checkbox .gigya-input-checkbox + label:before, #liteRegistrationDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label:before, #liteRegistrationDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label:before {
+    content: '';
+    margin-right: 10px;
+    display: block;
+    left: 0;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background:url(../images/assets/checkbox.png) no-repeat 0 0
+}
+
+#RegisterDiv .gigya-custom-checkbox .gigya-input-checkbox:checked + label:before, #RegisterDiv .gigya-braun-checkbox .gigya-input-checkbox:checked + label:before, #RegisterDiv .gigya-delonghi-checkbox .gigya-input-checkbox:checked + label:before, #RegisterDiv .gigya-kenwood-checkbox .gigya-input-checkbox:checked + label:before, #RegisterDiv .gigya-custom-checkbox .gigya-input-checkbox:checked + label:before, #RegisterDiv .gigya-braun-checkbox .gigya-input-checkbox:checked + label:before, #RegisterDiv .gigya-delonghi-checkbox .gigya-input-checkbox:checked + label:before, #RegisterDiv .gigya-kenwood-checkbox .gigya-input-checkbox:checked + label:before, #gigyaCompleteRegistrationDiv .gigya-custom-checkbox .gigya-input-checkbox:checked + label:before, #gigyaCompleteRegistrationDiv .gigya-braun-checkbox .gigya-input-checkbox:checked + label:before, #gigyaCompleteRegistrationDiv .gigya-delonghi-checkbox .gigya-input-checkbox:checked + label:before, #gigyaCompleteRegistrationDiv .gigya-kenwood-checkbox .gigya-input-checkbox:checked + label:before, #MarketingPreferencesDiv .gigya-custom-checkbox .gigya-input-checkbox:checked + label:before, #MarketingPreferencesDiv .gigya-braun-checkbox .gigya-input-checkbox:checked + label:before, #MarketingPreferencesDiv .gigya-delonghi-checkbox .gigya-input-checkbox:checked + label:before, #MarketingPreferencesDiv .gigya-kenwood-checkbox .gigya-input-checkbox:checked + label:before, #LoginDiv .gigya-custom-checkbox .gigya-input-checkbox:checked + label:before, #LoginDiv .gigya-braun-checkbox .gigya-input-checkbox:checked + label:before, #LoginDiv .gigya-delonghi-checkbox .gigya-input-checkbox:checked + label:before, #LoginDiv .gigya-kenwood-checkbox .gigya-input-checkbox:checked + label:before, #newsletter-container-div .gigya-custom-checkbox .gigya-input-checkbox:checked + label:before, #newsletter-container-div .gigya-braun-checkbox .gigya-input-checkbox:checked + label:before, #newsletter-container-div .gigya-delonghi-checkbox .gigya-input-checkbox:checked + label:before, #newsletter-container-div .gigya-kenwood-checkbox .gigya-input-checkbox:checked + label:before, #newsletter-container-div-inject-gigya-form .gigya-custom-checkbox .gigya-input-checkbox:checked + label:before, #newsletter-container-div-inject-gigya-form .gigya-braun-checkbox .gigya-input-checkbox:checked + label:before, #newsletter-container-div-inject-gigya-form .gigya-delonghi-checkbox .gigya-input-checkbox:checked + label:before, #newsletter-container-div-inject-gigya-form .gigya-kenwood-checkbox .gigya-input-checkbox:checked + label:before, #liteRegistrationDiv .gigya-custom-checkbox .gigya-input-checkbox:checked + label:before, #liteRegistrationDiv .gigya-braun-checkbox .gigya-input-checkbox:checked + label:before, #liteRegistrationDiv .gigya-delonghi-checkbox .gigya-input-checkbox:checked + label:before, #liteRegistrationDiv .gigya-kenwood-checkbox .gigya-input-checkbox:checked + label:before {
+    background-position:0 -20px
+}
+
+#RegisterDiv .gigya-braun-checkbox, #RegisterDiv .gigya-delonghi-checkbox, #RegisterDiv .gigya-kenwood-checkbox, #RegisterDiv .gigya-braun-checkbox, #RegisterDiv .gigya-delonghi-checkbox, #RegisterDiv .gigya-kenwood-checkbox, #gigyaCompleteRegistrationDiv .gigya-braun-checkbox, #gigyaCompleteRegistrationDiv .gigya-delonghi-checkbox, #gigyaCompleteRegistrationDiv .gigya-kenwood-checkbox, #MarketingPreferencesDiv .gigya-braun-checkbox, #MarketingPreferencesDiv .gigya-delonghi-checkbox, #MarketingPreferencesDiv .gigya-kenwood-checkbox, #LoginDiv .gigya-braun-checkbox, #LoginDiv .gigya-delonghi-checkbox, #LoginDiv .gigya-kenwood-checkbox, #newsletter-container-div .gigya-braun-checkbox, #newsletter-container-div .gigya-delonghi-checkbox, #newsletter-container-div .gigya-kenwood-checkbox, #newsletter-container-div-inject-gigya-form .gigya-braun-checkbox, #newsletter-container-div-inject-gigya-form .gigya-delonghi-checkbox, #newsletter-container-div-inject-gigya-form .gigya-kenwood-checkbox, #liteRegistrationDiv .gigya-braun-checkbox, #liteRegistrationDiv .gigya-delonghi-checkbox, #liteRegistrationDiv .gigya-kenwood-checkbox {
+    width: auto;
+    margin-top:10px
+}
+
+#RegisterDiv .gigya-braun-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #RegisterDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #RegisterDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #RegisterDiv .gigya-braun-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #RegisterDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #RegisterDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #gigyaCompleteRegistrationDiv .gigya-braun-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #gigyaCompleteRegistrationDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #gigyaCompleteRegistrationDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #MarketingPreferencesDiv .gigya-braun-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #MarketingPreferencesDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #MarketingPreferencesDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #LoginDiv .gigya-braun-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #LoginDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #LoginDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #newsletter-container-div .gigya-braun-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #newsletter-container-div .gigya-delonghi-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #newsletter-container-div .gigya-kenwood-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #newsletter-container-div-inject-gigya-form .gigya-braun-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #newsletter-container-div-inject-gigya-form .gigya-delonghi-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #newsletter-container-div-inject-gigya-form .gigya-kenwood-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #liteRegistrationDiv .gigya-braun-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #liteRegistrationDiv .gigya-delonghi-checkbox .gigya-input-checkbox + label .gigya-checkbox-text, #liteRegistrationDiv .gigya-kenwood-checkbox .gigya-input-checkbox + label .gigya-checkbox-text {
+    vertical-align:middle
+}
+
+#RegisterDiv .submissionButton, #RegisterDiv .submissionButton, #gigyaCompleteRegistrationDiv .submissionButton, #MarketingPreferencesDiv .submissionButton, #LoginDiv .submissionButton, #newsletter-container-div .submissionButton, #newsletter-container-div-inject-gigya-form .submissionButton, #liteRegistrationDiv .submissionButton {
+    display: block !important
+}
+
+#RegisterDiv .submissionButton input [type="submit"], #RegisterDiv .submissionButton input[type="button"], #RegisterDiv .submissionButton input [type="submit"], #RegisterDiv .submissionButton input[type="button"], #gigyaCompleteRegistrationDiv .submissionButton input [type="submit"], #gigyaCompleteRegistrationDiv .submissionButton input[type="button"], #MarketingPreferencesDiv .submissionButton input [type="submit"], #MarketingPreferencesDiv .submissionButton input[type="button"], #LoginDiv .submissionButton input [type="submit"], #LoginDiv .submissionButton input[type="button"], #newsletter-container-div .submissionButton input [type="submit"], #newsletter-container-div .submissionButton input[type="button"], #newsletter-container-div-inject-gigya-form .submissionButton input [type="submit"], #newsletter-container-div-inject-gigya-form .submissionButton input[type="button"], #liteRegistrationDiv .submissionButton input [type="submit"], #liteRegistrationDiv .submissionButton input[type="button"] {
+    width:auto
+}
+
+#RegisterDiv .gigya-spacer, #RegisterDiv .gigya-spacer, #gigyaCompleteRegistrationDiv .gigya-spacer, #MarketingPreferencesDiv .gigya-spacer, #LoginDiv .gigya-spacer, #newsletter-container-div .gigya-spacer, #newsletter-container-div-inject-gigya-form .gigya-spacer, #liteRegistrationDiv .gigya-spacer {
+    display:none
+}
+
+#RegisterDiv .consent-transition, #RegisterDiv .consent-transition, #gigyaCompleteRegistrationDiv .consent-transition, #MarketingPreferencesDiv .consent-transition, #LoginDiv .consent-transition, #newsletter-container-div .consent-transition, #newsletter-container-div-inject-gigya-form .consent-transition, #liteRegistrationDiv .consent-transition {
+    max-height: 1000px;
+    max-width: none !important;
+    overflow-y: hidden;
+    -webkit-transition: max-height 0.75s ease-in-out;
+    -moz-transition: max-height 0.75s ease-in-out;
+    -o-transition: max-height 0.75s ease-in-out;
+    transition: max-height 0.75s ease-in-out;
+    display: block !important;
+    font-size: 10px;
+    margin: 12px 0;
+    font-weight:normal
+}
+
+#RegisterDiv .consent-transition.consent-text, #RegisterDiv .consent-transition.consent-text, #gigyaCompleteRegistrationDiv .consent-transition.consent-text, #MarketingPreferencesDiv .consent-transition.consent-text, #LoginDiv .consent-transition.consent-text, #newsletter-container-div .consent-transition.consent-text, #newsletter-container-div-inject-gigya-form .consent-transition.consent-text, #liteRegistrationDiv .consent-transition.consent-text {
+    max-height:0
+}
+
+#RegisterDiv .consent-transition a, #RegisterDiv .consent-transition a, #gigyaCompleteRegistrationDiv .consent-transition a, #MarketingPreferencesDiv .consent-transition a, #LoginDiv .consent-transition a, #newsletter-container-div .consent-transition a, #newsletter-container-div-inject-gigya-form .consent-transition a, #liteRegistrationDiv .consent-transition a {
+    font-size: 10px;
+    color:#58B0E2
+}
+
+#newsletter-container-div .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.hide-show, #newsletter-container-div-inject-gigya-form .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.hide-show, #liteRegistrationDiv .gigya-screen-content div.gigya-screen .gigya-composite-control.gigya-composite-control-link.hide-show {
+    margin-top:20px
+}
+
+#gigyaCompleteRegistrationDiv.modal a.close {
+    top: 3px;
+    right:3px
+}
+
+@media only screen and (min-width: 768px) {
+    #gigyaCompleteRegistrationDiv.modal a.close {
+        top: 10px;
+        right:10px
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    #gigyaCompleteRegistrationDiv.modal a.close:after {
+        width: 20px;
+        height: 20px;
+        background:transparent url(../images/icons/close-icon.png) no-repeat 0 0
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    #gigyaCompleteRegistrationDiv.modal a.close:hover:after, #gigyaCompleteRegistrationDiv.modal a.close:focus:after, #gigyaCompleteRegistrationDiv.modal a.close:active:after {
+        background-position:0 -20px
+    }
+}
+
+#gigyaCompleteRegistrationDiv.modal .gigya-visible-when.gigya-container-enabled {
+    display:inline-block
+}
+
+#gigyaCompleteRegistrationDiv.modal .gigya-visible-when.gigya-container-enabled .gigya-custom-checkbox {
+    max-width:none !important
+}
+
+#LoginDiv .gigya-visible-when.gigya-container-enabled {
+    display:inline-block
+}
+
+#LoginDiv .gigya-visible-when.gigya-container-enabled .gigya-custom-checkbox {
+    max-width:none !important
+}
+
+#LoginDiv .gigya-link-accounts-form .gigya-composite-control.gigya-composite-control-header.link-accounts-main-header {
+    line-height: 1.2;
+    margin: 20px 0;
+    text-align:left !important
+}
+
+#LoginDiv .gigya-link-accounts-form .gigya-visible-when.gigya-container-enabled {
+    display: block;
+    text-align:left
+}
+
+#LoginDiv .gigya-link-accounts-form .gigya-visible-when.gigya-container-enabled .social-login-title {
+    font-size: 12px !important;
+    text-align:left !important
+}
+
+#newsletter-container-div .gigya-visible-when.gigya-container-enabled, #newsletter-container-div-inject-gigya-form .gigya-visible-when.gigya-container-enabled, #liteRegistrationDiv .gigya-visible-when.gigya-container-enabled {
+    display:inline-block
+}
+
+#newsletter-container-div .gigya-visible-when.gigya-container-enabled .gigya-custom-checkbox, #newsletter-container-div-inject-gigya-form .gigya-visible-when.gigya-container-enabled .gigya-custom-checkbox, #liteRegistrationDiv .gigya-visible-when.gigya-container-enabled .gigya-custom-checkbox {
+    max-width:none !important
+}
+
+#newsletter-container-div .gigya-visible-when.gigya-container-enabled .gigya-custom-checkbox .gigya-input-checkbox + label, #newsletter-container-div-inject-gigya-form .gigya-visible-when.gigya-container-enabled .gigya-custom-checkbox .gigya-input-checkbox + label, #liteRegistrationDiv .gigya-visible-when.gigya-container-enabled .gigya-custom-checkbox .gigya-input-checkbox + label {
+    padding:0 0 0 30px !important
+}
+
+.gigya-screen.portrait.mobile .gigya-composite-control-social-login {
+    max-width: 100% !important;
+    box-sizing:border-box
+}
+
+#liteRegistrationDiv .gigya-label-text {
+    font-family: notoregular !important;
+    font-size: 12px !important;
+    font-weight:700 !important !important
+}
+
+#liteRegistrationDiv .gigya-checkbox-text {
+    font-family: notoregular !important;
+    font-size: 12px !important;
+    font-weight:400 !important
+}
+
+#liteRegistrationDiv .consent-transition {
+    font-family: notoregular !important;
+    font-size: 10px !important;
+    font-weight: 400 !important
+}
+
